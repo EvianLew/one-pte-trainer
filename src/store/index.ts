@@ -60,6 +60,11 @@ export const pronunciationConfigAtom = atomForConfig('pronunciation', {
   rate: 1,
   // 浏览器自然语音：部署版优先用于 PTE 句子与 SGD 短句
   ttsVoiceName: 'auto',
+  // SGD 三个说话人可分别绑定声线；auto 会自动挑选不同的高质量英文声线。
+  sgdVoiceS1: 'auto',
+  sgdVoiceS2: 'auto',
+  sgdVoiceS3: 'auto',
+  sgdRate: 0.92,
 })
 
 export const fontSizeConfigAtom = atomForConfig('fontsize', defaultFontSizeConfig)
@@ -104,8 +109,10 @@ export const infoPanelStateAtom = atom<InfoPanelState>({
   redBook: false,
 })
 
-export const wordDictationConfigAtom = atomForConfig('wordDictationConfig', {
-  isOpen: false,
+export const wordDictationConfigAtom = atomForConfig('wordDictationConfigV2', {
+  // 壹ONE PTE 的核心是“听音→拼写”，默认直接隐藏答案。
+  // 使用新 storage key，避免旧版缓存把拼写模式继续关掉。
+  isOpen: true,
   type: 'hideAll' as WordDictationType,
   openBy: 'auto' as WordDictationOpenBy,
 })

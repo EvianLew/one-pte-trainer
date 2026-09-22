@@ -17,27 +17,34 @@ export const WordPronunciationIcon = React.forwardRef<
     return word.name
   }
 
-  const remote = usePronunciationSound(currentWord(), undefined, word.ttsEngine === 'browser' ? undefined : word.audio)
-  const natural = useNaturalSpeech(currentWord(), word.gender)
+  // PTE 训练永远使用单次发音：即使旧版 localStorage 里开过“循环发音”，
+  // 也不能让当前训练项无限循环。
+  const remote = usePronunciationSound(currentWord(), false, word.ttsEngine === 'browser' ? undefined : word.audio)
+  const natural = useNaturalSpeech(currentWord(), word.gender, word.speaker, word.mode === 'sgd' ? 'sgd' : 'default')
   const useNatural = word.ttsEngine === 'browser' || word.mode === 'sgd' || word.mode === 'sst'
+  const { play: playRemote, stop: stopRemote, isPlaying: remoteIsPlaying } = remote
+  const { play: playNatural, stop: stopNatural, isPlaying: naturalIsPlaying } = natural
 
   const playSound = useCallback(() => {
-    remote.stop()
-    natural.stop()
-    if (useNatural) natural.play()
-    else remote.play()
-  }, [natural, remote, useNatural])
+    stopRemote()
+    stopNatural()
+    if (useNatural) playNatural()
+    else playRemote()
+  }, [playNatural, playRemote, stopNatural, stopRemote, useNatural])
 
-  useEffect(() => () => {
-    remote.stop()
-    natural.stop()
-  }, [word, remote.stop, natural.stop])
+  useEffect(
+    () => () => {
+      stopRemote()
+      stopNatural()
+    },
+    [stopNatural, stopRemote, word.name],
+  )
 
   useImperativeHandle(ref, () => ({ play: playSound }), [playSound])
 
   return (
     <SoundIcon
-      animated={useNatural ? natural.isPlaying : remote.isPlaying}
+      animated={useNatural ? naturalIsPlaying : remoteIsPlaying}
       onClick={playSound}
       className={`cursor-pointer text-gray-600 ${className}`}
       iconClassName={iconClassName}

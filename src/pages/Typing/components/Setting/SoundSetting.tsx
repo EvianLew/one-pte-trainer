@@ -1,7 +1,7 @@
 import styles from './index.module.css'
 import { keySoundResources } from '@/resources/soundResource'
 import { hintSoundsConfigAtom, keySoundsConfigAtom, pronunciationConfigAtom } from '@/store'
-import { useSpeechVoices } from '@/hooks/useNaturalSpeech'
+import useNaturalSpeech, { sortedEnglishVoices, useSpeechVoices } from '@/hooks/useNaturalSpeech'
 import type { SoundResource } from '@/typings'
 import { toFixedNumber } from '@/utils'
 import { playKeySoundResource } from '@/utils/sounds/keySounds'
@@ -18,7 +18,10 @@ export default function SoundSetting() {
   const [pronunciationConfig, setPronunciationConfig] = useAtom(pronunciationConfigAtom)
   const [keySoundsConfig, setKeySoundsConfig] = useAtom(keySoundsConfigAtom)
   const [hintSoundsConfig, setHintSoundsConfig] = useAtom(hintSoundsConfigAtom)
-  const speechVoices = useSpeechVoices().filter((voice) => voice.lang.toLowerCase().startsWith('en'))
+  const speechVoices = sortedEnglishVoices(useSpeechVoices())
+  const s1Preview = useNaturalSpeech('I think we should break the task into smaller steps.', 'He', 'S1', 'sgd')
+  const s2Preview = useNaturalSpeech('That sounds practical, but we also need a clear deadline.', 'She', 'S2', 'sgd')
+  const s3Preview = useNaturalSpeech('I agree. Let us compare both options before we decide.', 'He', 'S3', 'sgd')
 
   const onTogglePronunciation = useCallback(
     (checked: boolean) => {
@@ -61,6 +64,15 @@ export default function SoundSetting() {
       setPronunciationConfig((prev) => ({
         ...prev,
         rate: value[0],
+      }))
+    },
+    [setPronunciationConfig],
+  )
+  const onChangeSgdRate = useCallback(
+    (value: [number]) => {
+      setPronunciationConfig((prev) => ({
+        ...prev,
+        sgdRate: value[0],
       }))
     },
     [setPronunciationConfig],
@@ -191,8 +203,68 @@ export default function SoundSetting() {
               </select>
             </div>
             <p className="px-1 text-[11px] leading-5 text-gray-500 dark:text-gray-400">
-              FIB / SST / SGD 的句子和短句优先使用系统自然语音。不同电脑可用声线不同，建议优先选择带 Natural / Premium / Enhanced 的英文声线。
+              FIB / SST 优先使用系统高质量英文声线；自动模式会优先 Natural / Neural / Premium / Enhanced。
             </p>
+
+            <div className="mt-2 rounded-xl border border-indigo-100 bg-indigo-50/50 p-3 dark:border-indigo-900/50 dark:bg-indigo-950/20">
+              <div className="mb-3 text-xs font-semibold text-indigo-700 dark:text-indigo-200">SGD 三人声线</div>
+              {[
+                { key: 'sgdVoiceS1', label: 'S1', preview: s1Preview },
+                { key: 'sgdVoiceS2', label: 'S2', preview: s2Preview },
+                { key: 'sgdVoiceS3', label: 'S3', preview: s3Preview },
+              ].map(({ key, label, preview }) => (
+                <div key={key} className="mb-2 flex items-center gap-2">
+                  <span className="w-6 text-xs font-bold text-gray-600 dark:text-gray-300">{label}</span>
+                  <select
+                    value={String(pronunciationConfig[key as keyof typeof pronunciationConfig] || 'auto')}
+                    onChange={(e) =>
+                      setPronunciationConfig((prev) => ({
+                        ...prev,
+                        [key]: e.target.value,
+                      }))
+                    }
+                    className="min-w-0 flex-1 rounded-md border border-gray-200 bg-white px-2 py-1 text-[11px] text-gray-700 dark:border-gray-700 dark:bg-slate-800 dark:text-gray-200"
+                  >
+                    <option value="auto">自动选择高质量声线</option>
+                    {speechVoices.map((voice) => (
+                      <option key={`${key}-${voice.name}-${voice.lang}`} value={voice.name}>
+                        {voice.name} · {voice.lang}
+                      </option>
+                    ))}
+                  </select>
+                  <button
+                    type="button"
+                    onClick={preview.play}
+                    className="rounded-md bg-indigo-500 px-2 py-1 text-[11px] font-medium text-white hover:bg-indigo-400"
+                  >
+                    试听
+                  </button>
+                </div>
+              ))}
+
+              <div className="mt-3">
+                <div className="mb-1 flex items-center justify-between text-[11px] text-gray-600 dark:text-gray-300">
+                  <span>SGD 语速</span>
+                  <span>{toFixedNumber(pronunciationConfig.sgdRate ?? 0.92, 2)}x</span>
+                </div>
+                <Slider.Root
+                  defaultValue={[pronunciationConfig.sgdRate ?? 0.92]}
+                  max={1.25}
+                  min={0.7}
+                  step={0.05}
+                  className="slider"
+                  onValueChange={onChangeSgdRate}
+                >
+                  <Slider.Track>
+                    <Slider.Range />
+                  </Slider.Track>
+                  <Slider.Thumb />
+                </Slider.Root>
+              </div>
+              <p className="mt-3 text-[11px] leading-5 text-gray-500 dark:text-gray-400">
+                自动模式会让 S1 / S2 / S3 尽量使用不同声线，并取消旧版的人为变调；如果你的系统提供 Microsoft Natural、Google 或 Apple Enhanced，建议分别试听后手动固定。
+              </p>
+            </div>
           </div>
           {window.speechSynthesis && (
             <div className={styles.section}>

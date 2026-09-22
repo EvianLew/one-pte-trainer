@@ -13,7 +13,15 @@ import { TypingContext, TypingStateActionType, initialState, typingReducer } fro
 import Header from '@/components/Header'
 import Tooltip from '@/components/Tooltip'
 import { idDictionaryMap } from '@/resources/dictionary'
-import { currentChapterAtom, currentDictIdAtom, currentDictInfoAtom, isReviewModeAtom, randomConfigAtom, reviewModeInfoAtom } from '@/store'
+import {
+  currentChapterAtom,
+  currentDictIdAtom,
+  currentDictInfoAtom,
+  isReviewModeAtom,
+  randomConfigAtom,
+  reviewModeInfoAtom,
+  wordDictationConfigAtom,
+} from '@/store'
 import { IsDesktop, isLegal } from '@/utils'
 import { useSaveChapterRecord } from '@/utils/db'
 import { useAtom, useAtomValue, useSetAtom } from 'jotai'
@@ -30,6 +38,7 @@ const App: React.FC = () => {
   const setCurrentChapter = useSetAtom(currentChapterAtom)
   const randomConfig = useAtomValue(randomConfigAtom)
   const currentDictInfo = useAtomValue(currentDictInfoAtom)
+  const wordDictationConfig = useAtomValue(wordDictationConfigAtom)
   const saveChapterRecord = useSaveChapterRecord()
 
   const reviewModeInfo = useAtomValue(reviewModeInfoAtom)
@@ -131,11 +140,20 @@ const App: React.FC = () => {
           <DictChapterButton />
           {currentDictInfo.mode === 'sgd' ? (
             <span className="rounded-full bg-emerald-100 px-3 py-1 text-xs font-semibold text-emerald-700 dark:bg-emerald-900/30 dark:text-emerald-200">
-              SGD 本地多人语音 · 固定顺序
+              SGD 三人声线 · 固定顺序
             </span>
           ) : (
             <PronunciationSwitcher />
           )}
+          <span
+            className={`rounded-full px-3 py-1 text-xs font-semibold ${
+              wordDictationConfig.isOpen
+                ? 'bg-indigo-100 text-indigo-700 dark:bg-indigo-900/30 dark:text-indigo-200'
+                : 'bg-gray-100 text-gray-500 dark:bg-gray-800 dark:text-gray-400'
+            }`}
+          >
+            {wordDictationConfig.isOpen ? '拼写模式 ON' : '拼写模式 OFF'}
+          </span>
           <Switcher />
           <StartButton isLoading={isLoading} />
           <Tooltip content="跳过该词">

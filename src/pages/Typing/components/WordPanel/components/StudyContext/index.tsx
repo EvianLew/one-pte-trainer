@@ -18,7 +18,7 @@ function Badge({ children, tone = 'slate' }: { children: ReactNode; tone?: 'slat
 
 export default function StudyContext({ word }: { word: Word }) {
   const [expanded, setExpanded] = useState(false)
-  const exampleSpeech = useNaturalSpeech(word.example || '', word.gender)
+  const exampleSpeech = useNaturalSpeech(word.example || '', word.gender, word.speaker, word.mode === 'sgd' ? 'sgd' : 'default')
   const otherOccurrences = word.otherOccurrences || []
 
   const zhFallback = useMemo(() => {

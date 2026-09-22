@@ -3,7 +3,13 @@
   "outputDirectory": "build",
   "framework": "vite",
   "routes": [
-    { "handle": "filesystem" },
-    { "src": "/.*", "dest": "/index.html" }
-  ]
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "/.*",
+      "dest": "/index.html"
+    }
+  ],
+  "installCommand": "npm install --legacy-peer-deps"
 }

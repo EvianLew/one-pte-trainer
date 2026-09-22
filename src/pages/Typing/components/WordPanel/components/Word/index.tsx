@@ -31,6 +31,10 @@ import { useImmer } from 'use-immer'
 
 const vowelLetters = ['A', 'E', 'I', 'O', 'U']
 
+function wordComponentIdentity(word: Word) {
+  return [word.mode || 'word', word.topic || '', word.sequence || '', word.questionId || ''].join(':')
+}
+
 export default function WordComponent({ word, onFinish }: { word: Word; onFinish: () => void }) {
   // eslint-disable-next-line  @typescript-eslint/no-non-null-assertion
   const { state, dispatch } = useContext(TypingContext)!
@@ -51,6 +55,9 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
 
   const [showTipAlert, setShowTipAlert] = useState(false)
   const wordPronunciationIconRef = useRef<WordPronunciationIconRef>(null)
+  // PTE 自动发音：每一道训练项只自动播放一次。输入错误后的清空、
+  // React 重绘或系统声线更新都不能再次触发自动播放。
+  const autoPlayedExerciseRef = useRef<string | null>(null)
 
   useEffect(() => {
     // run only when word changes
@@ -129,10 +136,14 @@ export default function WordComponent({ word, onFinish }: { word: Word; onFinish
   )
 
   useEffect(() => {
-    if (wordState.inputWord.length === 0 && state.isTyping) {
-      wordPronunciationIconRef.current?.play && wordPronunciationIconRef.current?.play()
-    }
-  }, [state.isTyping, wordState.inputWord.length, wordPronunciationIconRef.current?.play])
+    if (!state.isTyping) return
+
+    const exerciseKey = `${state.chapterData.index}::${word.name}::${wordComponentIdentity(word)}`
+    if (autoPlayedExerciseRef.current === exerciseKey) return
+
+    autoPlayedExerciseRef.current = exerciseKey
+    wordPronunciationIconRef.current?.play()
+  }, [state.chapterData.index, state.isTyping, word])
 
   const getLetterVisible = useCallback(
     (index: number) => {

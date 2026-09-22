@@ -62,16 +62,6 @@ const PronunciationSwitcher = () => {
     [setPronunciationConfig],
   )
 
-  const onChangePronunciationIsLoop = useCallback(
-    (value: boolean) => {
-      setPronunciationConfig((old) => ({
-        ...old,
-        isLoop: value,
-      }))
-    },
-    [setPronunciationConfig],
-  )
-
   const onChangePhoneticIsOpen = useCallback(
     (value: boolean) => {
       setPhoneticConfig((old) => ({
@@ -175,16 +165,8 @@ const PronunciationSwitcher = () => {
                   leaveFrom="max-h-[300px] opacity-100"
                   leaveTo="max-h-0 opacity-0"
                 >
-                  <div className="flex w-full  flex-col  items-start gap-2 py-0">
-                    <span className="text-sm font-normal leading-5 text-gray-900 dark:text-white dark:text-opacity-60">开关循环发音</span>
-                    <div className="flex w-full flex-row items-center justify-between">
-                      <Switch checked={pronunciationConfig.isLoop} onChange={onChangePronunciationIsLoop} className="switch-root">
-                        <span aria-hidden="true" className="switch-thumb" />
-                      </Switch>
-                      <span className="text-right text-xs font-normal leading-tight text-gray-600">{`循环已${
-                        pronunciationConfig.isLoop ? '开启' : '关闭'
-                      }`}</span>
-                    </div>
+                  <div className="w-full rounded-lg bg-indigo-50 px-3 py-2 text-xs leading-5 text-indigo-700 dark:bg-indigo-950/40 dark:text-indigo-200">
+                    PTE 模式固定单次自动发音。需要重播时点击喇叭或使用快捷键（{CTRL} + J）。
                   </div>
                   <div className="flex w-full  flex-col  items-start gap-2 py-0">
                     <span className="text-sm font-normal leading-5 text-gray-900 dark:text-white dark:text-opacity-60">单词发音口音</span>
