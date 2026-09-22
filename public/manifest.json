@@ -1,0 +1,9 @@
+{
+  "short_name": "壹ONE PTE",
+  "name": "壹ONE PTE Vocabulary Trainer",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}

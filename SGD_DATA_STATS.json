@@ -1,0 +1,180 @@
+{
+  "totalPhrases": 525,
+  "categories": {
+    "study-skills": {
+      "name": "学业关卡&提分技巧类",
+      "file": "PTE_SGD_Study_Skills.json",
+      "length": 136,
+      "sections": [
+        {
+          "name": "Management of Assignment",
+          "start": 0,
+          "end": 31,
+          "wordCount": 31,
+          "category": "学业关卡&提分技巧类"
+        },
+        {
+          "name": "ask for more time to do an essay",
+          "start": 31,
+          "end": 59,
+          "wordCount": 28,
+          "category": "学业关卡&提分技巧类"
+        },
+        {
+          "name": "how to write essays",
+          "start": 59,
+          "end": 83,
+          "wordCount": 24,
+          "category": "学业关卡&提分技巧类"
+        },
+        {
+          "name": "Improve presentation skills",
+          "start": 83,
+          "end": 110,
+          "wordCount": 27,
+          "category": "学业关卡&提分技巧类"
+        },
+        {
+          "name": "what they feel about a course",
+          "start": 110,
+          "end": 136,
+          "wordCount": 26,
+          "category": "学业关卡&提分技巧类"
+        }
+      ]
+    },
+    "campus-life": {
+      "name": "衣食住行&校园生活类",
+      "file": "PTE_SGD_Campus_Life.json",
+      "length": 101,
+      "sections": [
+        {
+          "name": "Accommodation options",
+          "start": 0,
+          "end": 24,
+          "wordCount": 24,
+          "category": "衣食住行&校园生活类"
+        },
+        {
+          "name": "project meeting place on campus",
+          "start": 24,
+          "end": 51,
+          "wordCount": 27,
+          "category": "衣食住行&校园生活类"
+        },
+        {
+          "name": "the best ways to get to university",
+          "start": 51,
+          "end": 76,
+          "wordCount": 25,
+          "category": "衣食住行&校园生活类"
+        },
+        {
+          "name": "housing plans",
+          "start": 76,
+          "end": 101,
+          "wordCount": 25,
+          "category": "衣食住行&校园生活类"
+        }
+      ]
+    },
+    "wellbeing": {
+      "name": "校园活动&身心健康类",
+      "file": "PTE_SGD_Wellbeing.json",
+      "length": 81,
+      "sections": [
+        {
+          "name": "Sports",
+          "start": 0,
+          "end": 27,
+          "wordCount": 27,
+          "category": "校园活动&身心健康类"
+        },
+        {
+          "name": "volunteering experiences",
+          "start": 27,
+          "end": 57,
+          "wordCount": 30,
+          "category": "校园活动&身心健康类"
+        },
+        {
+          "name": "whether take part in a field trip",
+          "start": 57,
+          "end": 81,
+          "wordCount": 24,
+          "category": "校园活动&身心健康类"
+        }
+      ]
+    },
+    "edtech": {
+      "name": "教学科技&学术边界类",
+      "file": "PTE_SGD_EdTech.json",
+      "length": 97,
+      "sections": [
+        {
+          "name": "Whether use smartphones in class",
+          "start": 0,
+          "end": 24,
+          "wordCount": 24,
+          "category": "教学科技&学术边界类"
+        },
+        {
+          "name": "the pros and cons of online classes",
+          "start": 24,
+          "end": 54,
+          "wordCount": 30,
+          "category": "教学科技&学术边界类"
+        },
+        {
+          "name": "free online courses",
+          "start": 54,
+          "end": 73,
+          "wordCount": 19,
+          "category": "教学科技&学术边界类"
+        },
+        {
+          "name": "artificial intelligence as a proofreading tool",
+          "start": 73,
+          "end": 97,
+          "wordCount": 24,
+          "category": "教学科技&学术边界类"
+        }
+      ]
+    },
+    "institution": {
+      "name": "高校制度&宏观规划类",
+      "file": "PTE_SGD_Institution.json",
+      "length": 110,
+      "sections": [
+        {
+          "name": "Find a job",
+          "start": 0,
+          "end": 23,
+          "wordCount": 23,
+          "category": "高校制度&宏观规划类"
+        },
+        {
+          "name": "the value of final exams",
+          "start": 23,
+          "end": 53,
+          "wordCount": 30,
+          "category": "高校制度&宏观规划类"
+        },
+        {
+          "name": "how to celebrate the mathematics department's ten-year anniversary",
+          "start": 53,
+          "end": 80,
+          "wordCount": 27,
+          "category": "高校制度&宏观规划类"
+        },
+        {
+          "name": "applying for a student exchange programme",
+          "start": 80,
+          "end": 110,
+          "wordCount": 30,
+          "category": "高校制度&宏观规划类"
+        }
+      ]
+    }
+  }
+}

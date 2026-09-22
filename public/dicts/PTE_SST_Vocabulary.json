@@ -1,0 +1,4105 @@
+[
+  {
+    "name": "absolutely",
+    "trans": [],
+    "usphone": "'æbsəlutli",
+    "ukphone": "'æbsəluːtlɪ"
+  },
+  {
+    "name": "academic",
+    "trans": [
+      "When something is academic, it relates to schools and education."
+    ],
+    "usphone": ",ækə'dɛmɪk",
+    "ukphone": "ˌækə'demɪk"
+  },
+  {
+    "name": "access",
+    "trans": [
+      "The manager was the only person with access to the password.",
+      "Access is the right to enter or use something."
+    ],
+    "usphone": "'æksɛs",
+    "ukphone": "'ækses"
+  },
+  {
+    "name": "achieve",
+    "trans": [
+      "I was happy that I could achieve my goal.",
+      "To achieve something is to successfully do it after trying hard."
+    ],
+    "usphone": "ə'tʃiv",
+    "ukphone": "ə'tʃiːv"
+  },
+  {
+    "name": "achiever",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "actions",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "ad hoc",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "addressed",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "affect",
+    "trans": [
+      "The student’s poor attitude affected the other students in the class.",
+      "To affect someone or something is to have an influence over them."
+    ],
+    "usphone": "ə'fɛkt",
+    "ukphone": "ə'fekt"
+  },
+  {
+    "name": "afford",
+    "trans": [
+      "I’ve been saving my money so I can afford to buy a new bike.",
+      "To afford something means to have enough money to pay for it."
+    ],
+    "usphone": "ə'fɔrd",
+    "ukphone": "ə'fɔːd"
+  },
+  {
+    "name": "Africa",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "aging",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "agricultural",
+    "trans": [],
+    "usphone": "ˌæɡrɪˈkʌltʃərəl",
+    "ukphone": "ˌæɡrɪˈkʌltʃərəl"
+  },
+  {
+    "name": "agriculture",
+    "trans": [
+      "The farmer studied agriculture in college.",
+      "Agriculture is the growing of plants and raising of animals for food."
+    ],
+    "usphone": "'æɡrɪkʌltʃɚ",
+    "ukphone": "'ægrɪkʌltʃə"
+  },
+  {
+    "name": "alternative",
+    "trans": [
+      "Her first plan to make extra money seemed weak, so she chose an alternative.",
+      "An alternative is something that you can choose instead of your first choice."
+    ],
+    "usphone": "ɔl'tɝnətɪv",
+    "ukphone": "ɔːl'tɜːrnətɪv"
+  },
+  {
+    "name": "America",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "analyses",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "annually",
+    "trans": [],
+    "usphone": "ˈænjʊəlɪ",
+    "ukphone": "'ænjuəli"
+  },
+  {
+    "name": "appeal",
+    "trans": [
+      "Sleeping all day appeals to me, but I have to go to school.",
+      "To appeal to someone is to be interesting or attractive."
+    ],
+    "usphone": "ə'pil",
+    "ukphone": "ə'piːl"
+  },
+  {
+    "name": "appearance",
+    "trans": [],
+    "usphone": "ə'pɪrəns",
+    "ukphone": "ə'pɪər(ə)ns"
+  },
+  {
+    "name": "application",
+    "trans": [],
+    "usphone": "ˌæpləˈkeʃən",
+    "ukphone": "ˌæplɪ'keɪʃn"
+  },
+  {
+    "name": "apprenticeship",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "approach",
+    "trans": [
+      "The boy approached his school.",
+      "To approach something means to move close to it."
+    ],
+    "usphone": "ə'protʃ",
+    "ukphone": "ə'proutʃ"
+  },
+  {
+    "name": "architectural",
+    "trans": [],
+    "usphone": "ˌɑːrkɪˈtektʃərəl",
+    "ukphone": "ˌɑːkɪˈtektʃərəl"
+  },
+  {
+    "name": "artifacts",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "artificial",
+    "trans": [
+      "The artificial Christmas tree was made of plastic.",
+      "If something is artificial, it was not made naturally but mimics something natural."
+    ],
+    "usphone": ",ɑrtɪ'fɪʃl",
+    "ukphone": "ˌɑːrtɪ'fɪʃl"
+  },
+  {
+    "name": "associated",
+    "trans": [],
+    "usphone": "əˈsoʊsieɪtɪd",
+    "ukphone": "əˈsəʊsieɪtɪd"
+  },
+  {
+    "name": "astronomy",
+    "trans": [
+      "Harold loved looking at the stars, so he decided to study astronomy.",
+      "Astronomy is the study of the stars and planets."
+    ],
+    "usphone": "ə'strɑnəmi",
+    "ukphone": "ə'strɑːnəmi"
+  },
+  {
+    "name": "atmosphere",
+    "trans": [
+      "Scientists worry that harmful substances are hurting the atmosphere.",
+      "The atmosphere is the air around the Earth where weather conditions form."
+    ],
+    "usphone": "'ætməsfɪr",
+    "ukphone": "'ætməsfɪr"
+  },
+  {
+    "name": "attention",
+    "trans": [
+      "His work got the attention of two of his co-workers.",
+      "Attention is the notice, thought, or consideration of someone."
+    ],
+    "usphone": "ə'tɛnʃən",
+    "ukphone": "ə'tenʃ(ə)n"
+  },
+  {
+    "name": "attract",
+    "trans": [
+      "The magnet attracted the metal.",
+      "To attract means to make a person or thing come closer or be interested."
+    ],
+    "usphone": "ə'trækt",
+    "ukphone": "ə'trækt"
+  },
+  {
+    "name": "lure",
+    "trans": [
+      "The store lures people in with big signs that say “Sale!”",
+      "To lure someone is to convince them to do something by using a trick."
+    ],
+    "usphone": "lʊr",
+    "ukphone": "lur"
+  },
+  {
+    "name": "Australia",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "authorities",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "automation",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "avoid",
+    "trans": [
+      "Avoid the broken bottle on the floor.",
+      "To avoid something is to stay away from it."
+    ],
+    "usphone": "ə'vɔɪd",
+    "ukphone": "ə'vɒɪd"
+  },
+  {
+    "name": "avoidance",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "aware",
+    "trans": [
+      "The student became aware that the teacher was watching him.",
+      "If someone is aware, they know that something or a situation exists."
+    ],
+    "usphone": "ə'wɛr",
+    "ukphone": "ə'wer"
+  },
+  {
+    "name": "baby",
+    "trans": [],
+    "usphone": "bebɪ",
+    "ukphone": "'beɪbɪ"
+  },
+  {
+    "name": "boom",
+    "trans": [
+      "The firecrackers made a loud boom when they exploded.",
+      "To boom means to make a loud, deep sound."
+    ],
+    "usphone": "buːm",
+    "ukphone": "buːm"
+  },
+  {
+    "name": "population",
+    "trans": [
+      "The population of our city is steadily growing.",
+      "A population is all the people living in an area."
+    ],
+    "usphone": "ˌpɑpjuˈleɪʃn",
+    "ukphone": "pɒpjʊ'leɪʃ(ə)n"
+  },
+  {
+    "name": "bacteria",
+    "trans": [],
+    "usphone": "bæk'tɪrɪə",
+    "ukphone": "bæk'tɪərɪə"
+  },
+  {
+    "name": "bacterium",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "balance",
+    "trans": [
+      "A good balance between work and fun helps keep you healthy.",
+      "Balance is when two or more things are equal."
+    ],
+    "usphone": "'bæləns",
+    "ukphone": "'bæləns"
+  },
+  {
+    "name": "baseline",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bees",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "beforehand",
+    "trans": [
+      "He packed his luggage beforehand, so he was able to leave right away.",
+      "If something is done beforehand, then it is done in advance."
+    ],
+    "usphone": "bɪ'fɔrhænd",
+    "ukphone": "bɪ'fɔːhænd"
+  },
+  {
+    "name": "benefits",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "billions",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "biological",
+    "trans": [
+      "In science class, we learned about the biological process of bacterial growth.",
+      "Biological describes the process of life and living things."
+    ],
+    "usphone": ",baɪə'lɑdʒɪkl",
+    "ukphone": "baɪə(ʊ)'lɒdʒɪk(ə)l"
+  },
+  {
+    "name": "biology",
+    "trans": [
+      "We learned about the human heart in biology class.",
+      "Biology is the study of living things."
+    ],
+    "usphone": "baɪ'ɑlədʒi",
+    "ukphone": "baɪ'ɒlədʒɪ"
+  },
+  {
+    "name": "blurry",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "borders",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "borrow",
+    "trans": [
+      "Can I borrow a pencil to use today? I’ll give it back to you tomorrow.",
+      "To borrow something is to take it and then give it back later."
+    ],
+    "usphone": "'bɑro",
+    "ukphone": "'bɒrəʊ"
+  },
+  {
+    "name": "boundary",
+    "trans": [
+      "This fence shows the boundary between our yard and yours.",
+      "A boundary is the line where one area of land stops and another begins."
+    ],
+    "usphone": "'baʊndri",
+    "ukphone": "'baundri"
+  },
+  {
+    "name": "bounds",
+    "trans": [
+      "If your ball lands outside the lines, it’s out of bounds.",
+      "Bounds is the area in a game in which plays are legal."
+    ],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "brain",
+    "trans": [
+      "You must use your brain to solve the problem.",
+      "The brain is the organ in your head that lets you think."
+    ],
+    "usphone": "bren",
+    "ukphone": "breɪn"
+  },
+  {
+    "name": "brand",
+    "trans": [],
+    "usphone": "brænd",
+    "ukphone": "brænd"
+  },
+  {
+    "name": "breadth",
+    "trans": [
+      "The breadth of the northern wall of the house is twenty meters.",
+      "Breadth is the distance from one side to the other side of something."
+    ],
+    "usphone": "brɛdθ",
+    "ukphone": "bredθ; -t-"
+  },
+  {
+    "name": "breaks",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "bright",
+    "trans": [
+      "The bright light from the explosion hurt my eyes.",
+      "If something is bright, it gives off a lot of light."
+    ],
+    "usphone": "braɪt",
+    "ukphone": "braɪt"
+  },
+  {
+    "name": "British",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "broad",
+    "trans": [
+      "The river is very long and broad.",
+      "Broad means that something is wide, not narrow."
+    ],
+    "usphone": "brɔd",
+    "ukphone": "brɔːd"
+  },
+  {
+    "name": "perspectives",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "busy",
+    "trans": [
+      "Everyone is busy at the office today.",
+      "A busy person has a lot of things to do."
+    ],
+    "usphone": "ˈbɪzɪ",
+    "ukphone": "'bɪzɪ"
+  },
+  {
+    "name": "buyers",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "camp",
+    "trans": [],
+    "usphone": "kæmp",
+    "ukphone": "kæmp"
+  },
+  {
+    "name": "campaign",
+    "trans": [],
+    "usphone": "kæm'pen",
+    "ukphone": "kæm'peɪn"
+  },
+  {
+    "name": "capacities",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "capacity",
+    "trans": [
+      "The parking lot has reached its full capacity.",
+      "The capacity of something is the amount of things that can be put in it."
+    ],
+    "usphone": "kə'pæsəti",
+    "ukphone": "kə'pæsəti"
+  },
+  {
+    "name": "carry",
+    "trans": [],
+    "usphone": "ˈkærɪ",
+    "ukphone": "'kærɪ"
+  },
+  {
+    "name": "out",
+    "trans": [],
+    "usphone": "aʊt",
+    "ukphone": "aʊt"
+  },
+  {
+    "name": "cash",
+    "trans": [],
+    "usphone": "kæʃ",
+    "ukphone": "kæʃ"
+  },
+  {
+    "name": "flow",
+    "trans": [
+      "The water flowed over the rocks and into the lake.",
+      "To flow is to move easily and continuously in one direction."
+    ],
+    "usphone": "flo",
+    "ukphone": "fləʊ"
+  },
+  {
+    "name": "cell",
+    "trans": [
+      "A red blood cell carries oxygen.",
+      "A cell is the smallest part of a living thing that can live by itself."
+    ],
+    "usphone": "sɛl",
+    "ukphone": "sel"
+  },
+  {
+    "name": "certain",
+    "trans": [
+      "I am certain that zebras have stripes.",
+      "If you are certain about something, you know it is true."
+    ],
+    "usphone": "'sɝtn",
+    "ukphone": "'sɜːt(ə)n; -tɪn"
+  },
+  {
+    "name": "characters",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "chemically",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "chemistry",
+    "trans": [
+      "In chemistry class, the professor taught us about chemical reactions.",
+      "Chemistry is the study of substances and reactions between them."
+    ],
+    "usphone": "'kɛmɪstri",
+    "ukphone": "'kemɪstrɪ"
+  },
+  {
+    "name": "childhood",
+    "trans": [],
+    "usphone": "'tʃaɪldhʊd",
+    "ukphone": "'tʃaɪldhʊd"
+  },
+  {
+    "name": "chimpanzees",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "circumstances",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "civilizations",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "claimed",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "clauses",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "change",
+    "trans": [],
+    "usphone": "tʃendʒ",
+    "ukphone": "tʃeɪn(d)ʒ"
+  },
+  {
+    "name": "closely",
+    "trans": [],
+    "usphone": "'klosli",
+    "ukphone": "'kləʊslɪ"
+  },
+  {
+    "name": "cognitive",
+    "trans": [
+      "After her physical examination, her cognitive skills were tested.",
+      "If something is cognitive, it is related to learning and knowing things."
+    ],
+    "usphone": "'kɑɡnətɪv",
+    "ukphone": "'kɑːgnətɪv"
+  },
+  {
+    "name": "collect",
+    "trans": [],
+    "usphone": "kə'lɛkt",
+    "ukphone": "kə'lekt"
+  },
+  {
+    "name": "combine",
+    "trans": [
+      "Mina combined peanut butter and jelly to make a sandwich.",
+      "To combine is to join together to make a single thing or group."
+    ],
+    "usphone": "kəm'baɪn",
+    "ukphone": "kəm'baɪn"
+  },
+  {
+    "name": "command",
+    "trans": [
+      "Joe gave the students a command to stand up.",
+      "A command is an order given to a person or animal to do something."
+    ],
+    "usphone": "kə'mænd",
+    "ukphone": "kə'mænd"
+  },
+  {
+    "name": "commercial",
+    "trans": [],
+    "usphone": "kə'mɝʃəl",
+    "ukphone": "kə'mɜːʃ(ə)l"
+  },
+  {
+    "name": "communicate",
+    "trans": [
+      "He was unable to communicate his feelings clearly.",
+      "When we communicate with others, we talk or write to them."
+    ],
+    "usphone": "kə'mjunɪket",
+    "ukphone": "kə'mjuːnɪkeɪt"
+  },
+  {
+    "name": "comparable",
+    "trans": [],
+    "usphone": "ˈkɑːmpərəbl",
+    "ukphone": "ˈkɒmpərəbl"
+  },
+  {
+    "name": "compelling",
+    "trans": [],
+    "usphone": "kəmˈpelɪŋ",
+    "ukphone": "kəmˈpelɪŋ"
+  },
+  {
+    "name": "competition",
+    "trans": [],
+    "usphone": ",kɑmpə'tɪʃən",
+    "ukphone": "ˌkɒmpəˈtɪʃn"
+  },
+  {
+    "name": "competitive",
+    "trans": [],
+    "usphone": "kəm'pɛtətɪv",
+    "ukphone": "kəm'petɪtɪv"
+  },
+  {
+    "name": "complexity",
+    "trans": [],
+    "usphone": "kəmˈpleksəti",
+    "ukphone": "kəmˈpleksəti"
+  },
+  {
+    "name": "concentrate",
+    "trans": [
+      "I could not concentrate on my homework because the room was so loud.",
+      "To concentrate is to give one’s full attention to something."
+    ],
+    "usphone": "'kɑnsn'tret",
+    "ukphone": "'kɑːnsntreɪt"
+  },
+  {
+    "name": "concept",
+    "trans": [
+      "I learned some concepts about molecules before working in the science lab.",
+      "A concept is an idea about something."
+    ],
+    "usphone": "'kɑnsɛpt",
+    "ukphone": "'kɑːnsept"
+  },
+  {
+    "name": "concern",
+    "trans": [
+      "I was filled with concern after reading the newspaper.",
+      "Concern is a feeling of worry."
+    ],
+    "usphone": "kən'sɝn",
+    "ukphone": "kən'sɜːrn"
+  },
+  {
+    "name": "conditions",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "conducted",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "confident",
+    "trans": [
+      "She was confident she could climb the mountain due to her training.",
+      "Confident people believe that they can do something without failing."
+    ],
+    "usphone": "'kɑnfɪdənt",
+    "ukphone": "'kɒnfɪd(ə)nt"
+  },
+  {
+    "name": "connected",
+    "trans": [],
+    "usphone": "kəˈnektɪd",
+    "ukphone": "kəˈnektɪd"
+  },
+  {
+    "name": "conquered",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "consequences",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "consistent",
+    "trans": [
+      "Sara comes in every day and is our most consistent worker.",
+      "If a person is consistent, they always have the same behavior or attitude."
+    ],
+    "usphone": "kən'sɪstənt",
+    "ukphone": "kən'sɪstənt"
+  },
+  {
+    "name": "constitution",
+    "trans": [
+      "The country’s constitution said a prime minister could only serve three terms.",
+      "A constitution is a document of principles for a government."
+    ],
+    "usphone": "'kɑnstə'tʊʃən",
+    "ukphone": "ˌkɑːnstə'tuːʃn"
+  },
+  {
+    "name": "consuming",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "continental",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "continuous",
+    "trans": [],
+    "usphone": "kən'tɪnjʊəs",
+    "ukphone": "kən'tɪnjʊəs"
+  },
+  {
+    "name": "contracts",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "contributes",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "controversial",
+    "trans": [],
+    "usphone": "ˌkɑːntrəˈvɜːrʃl",
+    "ukphone": "ˌkɒntrəˈvɜːʃl"
+  },
+  {
+    "name": "conventional",
+    "trans": [],
+    "usphone": "kən'vɛnʃənl",
+    "ukphone": "kən'venʃənəl"
+  },
+  {
+    "name": "conversation",
+    "trans": [],
+    "usphone": ",kɑnvɚ'seʃən",
+    "ukphone": "kɒnvə'seɪʃ(ə)n"
+  },
+  {
+    "name": "counts",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "court",
+    "trans": [],
+    "usphone": "kɔrt",
+    "ukphone": "kɔːrt"
+  },
+  {
+    "name": "creativity",
+    "trans": [],
+    "usphone": "ˌkriːeɪˈtɪvəti",
+    "ukphone": "ˌkriːeɪˈtɪvəti"
+  },
+  {
+    "name": "creatures",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "crisis",
+    "trans": [
+      "The crisis was over and things returned to normal.",
+      "A crisis is a difficult time when things are going to either get worse or better."
+    ],
+    "usphone": "'kraɪsɪs",
+    "ukphone": "'kraɪsɪs"
+  },
+  {
+    "name": "criticize",
+    "trans": [
+      "He criticized his wife for spending too much money.",
+      "To criticize is to say bad things about someone or something."
+    ],
+    "usphone": "'krɪtə'saɪz",
+    "ukphone": "'krɪtɪsaɪz"
+  },
+  {
+    "name": "crops",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "crust",
+    "trans": [
+      "The little boy never ate the crust of his pizza.",
+      "Crust is the tough outer part of a loaf of bread."
+    ],
+    "usphone": "krʌst",
+    "ukphone": "krʌst"
+  },
+  {
+    "name": "cultivate",
+    "trans": [
+      "A research company is cultivating new kinds of rice to aid poor countries.",
+      "To cultivate plants is to care for them and help them grow."
+    ],
+    "usphone": "'kʌltɪvet",
+    "ukphone": "'kʌltɪveɪt"
+  },
+  {
+    "name": "cultural",
+    "trans": [],
+    "usphone": "'kʌltʃərəl",
+    "ukphone": "'kʌltʃ(ə)r(ə)l"
+  },
+  {
+    "name": "damage",
+    "trans": [
+      "The car was damaged in the accident.",
+      "To damage something is to break it."
+    ],
+    "usphone": "'dæmɪdʒ",
+    "ukphone": "'dæmɪdʒ"
+  },
+  {
+    "name": "daylight",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "decades",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "decline",
+    "trans": [
+      "She declined his offer to pay for her dinner.",
+      "To decline an offer or invitation means to say no to it."
+    ],
+    "usphone": "dɪ'klaɪn",
+    "ukphone": "dɪ'klaɪn"
+  },
+  {
+    "name": "deeply",
+    "trans": [],
+    "usphone": "'diplɪ",
+    "ukphone": "'diːplɪ"
+  },
+  {
+    "name": "definition",
+    "trans": [],
+    "usphone": ",dɛfɪ'nɪʃən",
+    "ukphone": "defɪ'nɪʃ(ə)n"
+  },
+  {
+    "name": "deliver",
+    "trans": [
+      "The man delivered Chinese food to my house.",
+      "To deliver something is to take it from one place to another."
+    ],
+    "usphone": "dɪ'lɪvɚ",
+    "ukphone": "dɪ'lɪvər"
+  },
+  {
+    "name": "demand",
+    "trans": [],
+    "usphone": "dɪ'mænd",
+    "ukphone": "dɪ'mɑːnd"
+  },
+  {
+    "name": "demanding",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "democracy",
+    "trans": [],
+    "usphone": "dɪˈmɑkrəsi",
+    "ukphone": "dɪ'mɑːkrəsi"
+  },
+  {
+    "name": "depth",
+    "trans": [],
+    "usphone": "dɛpθ",
+    "ukphone": "depθ"
+  },
+  {
+    "name": "desert",
+    "trans": [
+      "Not many plants grow in the desert.",
+      "The desert is an area of land without many plants or water."
+    ],
+    "usphone": "(for v.) dɪˈzɝ​t; (for n.) 'dɛzɚt",
+    "ukphone": "(for v.) dɪ'zɜːt; (for n.) 'dezət"
+  },
+  {
+    "name": "design",
+    "trans": [],
+    "usphone": "dɪ'zaɪn",
+    "ukphone": "dɪ'zaɪn"
+  },
+  {
+    "name": "desire",
+    "trans": [
+      "My sister desires a big house and lots of money.",
+      "To desire is to want something."
+    ],
+    "usphone": "dɪ'zaɪɚ",
+    "ukphone": "dɪ'zaɪə"
+  },
+  {
+    "name": "destination",
+    "trans": [
+      "The destination of this plane is Munich, Germany.",
+      "A destination is the place where someone or something is going."
+    ],
+    "usphone": ",dɛstɪ'neʃən",
+    "ukphone": "ˌdestɪ'neɪʃn"
+  },
+  {
+    "name": "destiny",
+    "trans": [
+      "It was his destiny to become a great singer.",
+      "A destiny is all the things that happen or will happen to a person in their life."
+    ],
+    "usphone": "'dɛstəni",
+    "ukphone": "'destɪnɪ"
+  },
+  {
+    "name": "determine",
+    "trans": [],
+    "usphone": "dɪ'tɝmɪn",
+    "ukphone": "dɪ'tɜːrmɪn"
+  },
+  {
+    "name": "development",
+    "trans": [],
+    "usphone": "dɪ'vɛləpmənt",
+    "ukphone": "dɪ'veləpm(ə)nt"
+  },
+  {
+    "name": "dimension",
+    "trans": [],
+    "usphone": "dəˈmɛnʃən, daɪ-",
+    "ukphone": "dɪ'menʃn"
+  },
+  {
+    "name": "direct",
+    "trans": [
+      "The green path is a direct route to my house.",
+      "If something is direct, it goes straight between two places."
+    ],
+    "usphone": "dəˈrekt; daɪˈrekt",
+    "ukphone": "dɪˈrekt ; daɪ-"
+  },
+  {
+    "name": "directs",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "disappearance",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "disappeared",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "distinguished",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "diversity",
+    "trans": [
+      "My company puts an emphasis on the importance on having cultural diversity.",
+      "Diversity is the quality or state of having many different forms, types, ideas, etc."
+    ],
+    "usphone": "dɪˈvəsɪti",
+    "ukphone": "dɪ'vɜːrsəti"
+  },
+  {
+    "name": "divided",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "donations",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "double",
+    "trans": [
+      "I paid almost double the amount for that shirt.",
+      "Double means twice as much or twice as many."
+    ],
+    "usphone": "'dʌbl",
+    "ukphone": "'dʌb(ə)l"
+  },
+  {
+    "name": "draw",
+    "trans": [],
+    "usphone": "drɔ",
+    "ukphone": "drɔː"
+  },
+  {
+    "name": "drives",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "drop",
+    "trans": [
+      "A small amount of water dropped from the bottle.",
+      "To drop is to fall or allow something to fall."
+    ],
+    "usphone": "drɑp",
+    "ukphone": "drɒp"
+  },
+  {
+    "name": "earnings",
+    "trans": [],
+    "usphone": "ˈɜːrnɪŋz",
+    "ukphone": "ˈɜːnɪŋz"
+  },
+  {
+    "name": "earth",
+    "trans": [],
+    "usphone": "ɝθ",
+    "ukphone": "ɜːθ"
+  },
+  {
+    "name": "earthquakes",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "easily",
+    "trans": [],
+    "usphone": "'izəli",
+    "ukphone": "'iːzɪlɪ"
+  },
+  {
+    "name": "economic",
+    "trans": [],
+    "usphone": "ˌikəˈnɑmɪk, ˌɛkəˈ-nɑmɪk",
+    "ukphone": "ˌiːkə'nɑːmɪk"
+  },
+  {
+    "name": "economies",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "economists",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "economy",
+    "trans": [
+      "The factory was good for the economy because it brought jobs to the area.",
+      "An economy is the money and businesses of a country or region."
+    ],
+    "usphone": "ɪ'kɑnəmi",
+    "ukphone": "ɪ'kɒnəmɪ"
+  },
+  {
+    "name": "effectively",
+    "trans": [],
+    "usphone": "ɪ'fɛktɪvli",
+    "ukphone": "ɪ'fektɪvlɪ"
+  },
+  {
+    "name": "efficient",
+    "trans": [
+      "My car is very efficient. I rarely have to buy gas.",
+      "If something or someone is efficient, they do not waste energy."
+    ],
+    "usphone": "ɪ'fɪʃnt",
+    "ukphone": "ɪ'fɪʃnt"
+  },
+  {
+    "name": "elevate",
+    "trans": [],
+    "usphone": "ˈelɪveɪt",
+    "ukphone": "ˈelɪveɪt"
+  },
+  {
+    "name": "emotionally",
+    "trans": [],
+    "usphone": "l..ɪ",
+    "ukphone": "l..ɪ"
+  },
+  {
+    "name": "emotion",
+    "trans": [
+      "Anger is a common emotion that we all feel.",
+      "An emotion is how you feel."
+    ],
+    "usphone": "ɪ'moʃən",
+    "ukphone": "ɪ'mouʃn"
+  },
+  {
+    "name": "encounter",
+    "trans": [
+      "I encountered a sea turtle while I was swimming.",
+      "To encounter is to find or meet a person or thing."
+    ],
+    "usphone": "ɪn'kaʊntɚ",
+    "ukphone": "ɪn'kauntər"
+  },
+  {
+    "name": "encourage",
+    "trans": [
+      "My football coach will encourage us when we are losing.",
+      "To encourage people is to make them want to do something."
+    ],
+    "usphone": "ɪn'kɝrɪdʒ",
+    "ukphone": "ɪn'kʌrɪdʒ; en-"
+  },
+  {
+    "name": "engage",
+    "trans": [
+      "Dad was engaged in sawing a piece of wood in half.",
+      "To engage in something means to do it."
+    ],
+    "usphone": "ɪn'ɡedʒ",
+    "ukphone": "ɪn'geɪdʒ"
+  },
+  {
+    "name": "engineering",
+    "trans": [],
+    "usphone": "'ɛndʒə'nɪrɪŋ",
+    "ukphone": "ˌendʒɪ'nɪrɪŋ"
+  },
+  {
+    "name": "England",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "enjoy",
+    "trans": [
+      "The woman enjoys riding her bicycle.",
+      "To enjoy is to like something."
+    ],
+    "usphone": "ɪn'dʒɔɪ",
+    "ukphone": "ɪnˈdʒɔɪ"
+  },
+  {
+    "name": "enterprise",
+    "trans": [
+      "My father owns an advertising enterprise.",
+      "An enterprise is a company or business."
+    ],
+    "usphone": "'ɛntɚ'praɪz",
+    "ukphone": "'entərpraɪz"
+  },
+  {
+    "name": "enthusiastic",
+    "trans": [
+      "The man was enthusiastic about his job.",
+      "An enthusiastic person is excited by or interested in something."
+    ],
+    "usphone": "ɪn,θuzɪ'æstɪk",
+    "ukphone": "ɪnˌθuːzi'æstɪk"
+  },
+  {
+    "name": "environment",
+    "trans": [
+      "Keeping our environment clean is important to our health.",
+      "The environment is the place where people work or live."
+    ],
+    "usphone": "ɪn'vaɪrənmənt",
+    "ukphone": "ɪnˈvaɪrənmənt"
+  },
+  {
+    "name": "environmental",
+    "trans": [],
+    "usphone": "ɪn,vaɪrən'mɛntl",
+    "ukphone": "ɪnˌvaɪrən'mentl"
+  },
+  {
+    "name": "era",
+    "trans": [
+      "During the medieval era, knights wore protective armor.",
+      "An era is a period of time that has something special about it."
+    ],
+    "usphone": "'ɪrə",
+    "ukphone": "'ɪrə"
+  },
+  {
+    "name": "erosion",
+    "trans": [
+      "Canyons are formed because rivers of fast-moving water caused erosion.",
+      "Erosion is the destruction of rock or soil due to flowing water or weather."
+    ],
+    "usphone": "ɪ'roʒən",
+    "ukphone": "ɪ'rouʒn"
+  },
+  {
+    "name": "essay",
+    "trans": [
+      "She had to write a two-page essay for her English class.",
+      "An essay is a short piece of writing on a certain subject."
+    ],
+    "usphone": "'ɛse",
+    "ukphone": "'eseɪ"
+  },
+  {
+    "name": "essential",
+    "trans": [
+      "It is essential to have oxygen when you scuba dive.",
+      "If something is essential, it is very important and necessary."
+    ],
+    "usphone": "ɪ'sɛnʃl",
+    "ukphone": "ɪ'senʃl"
+  },
+  {
+    "name": "European",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "convention",
+    "trans": [
+      "In the US, a popular convention is to shake hands when you meet someone.",
+      "A convention is behavior that is considered to be common or polite."
+    ],
+    "usphone": "kən'vɛnʃən",
+    "ukphone": "kən'venʃn"
+  },
+  {
+    "name": "evaporate",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "eventually",
+    "trans": [
+      "He will eventually move to London to find a new job.",
+      "When something happens at a later time or in the end, it happens eventually."
+    ],
+    "usphone": "ɪ'vɛntʃuəli",
+    "ukphone": "ɪ'ventʃʊəlɪ"
+  },
+  {
+    "name": "evidence",
+    "trans": [
+      "He used the pictures as evidence that UFOs are real.",
+      "Evidence is a fact or thing that you use to prove something."
+    ],
+    "usphone": "'ɛvɪdəns",
+    "ukphone": "'evɪdəns"
+  },
+  {
+    "name": "executive",
+    "trans": [
+      "After twenty years at the company, he finally became the executive.",
+      "An executive is the top manager of a business."
+    ],
+    "usphone": "ɪɡ'zɛkjətɪv",
+    "ukphone": "ɪg'zekjətɪv"
+  },
+  {
+    "name": "existed",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "existence",
+    "trans": [],
+    "usphone": "ɪɡ'zɪstəns",
+    "ukphone": "ɪg'zɪstəns"
+  },
+  {
+    "name": "expensive",
+    "trans": [
+      "My friend drives an expensive sports car.",
+      "Expensive things cost a lot of money."
+    ],
+    "usphone": "ɪk'spɛnsɪv",
+    "ukphone": "ɪkˈspensɪv"
+  },
+  {
+    "name": "experience",
+    "trans": [
+      "Going to the concert was the best thing I’ve ever experienced.",
+      "To experience is to do or see something or have something happen to you."
+    ],
+    "usphone": "ɪk'spɪrɪəns",
+    "ukphone": "ɪkˈspɪərɪəns"
+  },
+  {
+    "name": "explore",
+    "trans": [
+      "He wants to explore the world and see new things.",
+      "To explore is to look for new places."
+    ],
+    "usphone": "ɪk'splɔr",
+    "ukphone": "ɪk'splɔːr"
+  },
+  {
+    "name": "expression",
+    "trans": [],
+    "usphone": "ɪk'sprɛʃən",
+    "ukphone": "ɪkˈspreʃn"
+  },
+  {
+    "name": "external",
+    "trans": [
+      "It is warm inside my house, but the external temperature is freezing.",
+      "When something is external, it is connected to an outer part."
+    ],
+    "usphone": "ɪk'stɝnl",
+    "ukphone": "ɪk'stɜːrnl"
+  },
+  {
+    "name": "extraordinary",
+    "trans": [
+      "The fireman who rescued the girl was extraordinary.",
+      "Extraordinary things are amazing."
+    ],
+    "usphone": "ɪkˈstrɔrdənerɪ; ɪkˈstrɔrdnˌɛrɪ",
+    "ukphone": "ɪk'strɔːrdəneri"
+  },
+  {
+    "name": "factories",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "falling",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "famous",
+    "trans": [
+      "The Eiffel Tower in Paris is very famous.",
+      "A famous person or thing is well known."
+    ],
+    "usphone": "'feməs",
+    "ukphone": "'feɪməs"
+  },
+  {
+    "name": "far-reaching",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "faults",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fears",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "feasible",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "feature",
+    "trans": [
+      "The cell phone has many features.",
+      "A feature is an important part of something."
+    ],
+    "usphone": "'fitʃɚ",
+    "ukphone": "'fiːtʃə"
+  },
+  {
+    "name": "fiber",
+    "trans": [
+      "The mat was made from tiny fibers.",
+      "A fiber is a thread of a substance used to make clothes or rope."
+    ],
+    "usphone": "'faɪbɚ",
+    "ukphone": "'faɪbər"
+  },
+  {
+    "name": "fight",
+    "trans": [],
+    "usphone": "faɪt",
+    "ukphone": "faɪt"
+  },
+  {
+    "name": "fight or flight response",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "filed",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "finite",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "firm",
+    "trans": [
+      "He sleeps better on a firm bed.",
+      "A firm thing is solid but not too hard."
+    ],
+    "usphone": "fɝm",
+    "ukphone": "fɜːrm"
+  },
+  {
+    "name": "flight",
+    "trans": [],
+    "usphone": "flaɪt",
+    "ukphone": "flaɪt"
+  },
+  {
+    "name": "focus",
+    "trans": [
+      "My mom always helps me to focus on my school work.",
+      "To focus on something is to think about it and pay attention to it."
+    ],
+    "usphone": "'fokəs",
+    "ukphone": "'foukəs"
+  },
+  {
+    "name": "foreign",
+    "trans": [
+      "He has travelled widely in foreign countries.",
+      "Something foreign is something we are not used to."
+    ],
+    "usphone": "'fɔrən",
+    "ukphone": "'fɒrɪn"
+  },
+  {
+    "name": "forms",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fossil",
+    "trans": [
+      "The expert arranged the fossils to build the skeleton of the dinosaur.",
+      "A fossil is the hard remains of a prehistoric animal or plant."
+    ],
+    "usphone": "'fɑsl",
+    "ukphone": "'fɑːsl"
+  },
+  {
+    "name": "frequent",
+    "trans": [
+      "While Dad was sick, the doctor made frequent visits to his house.",
+      "If something is frequent, then it happens or is done often."
+    ],
+    "usphone": "'frikwənt",
+    "ukphone": "'friːkw(ə)nt"
+  },
+  {
+    "name": "friendly",
+    "trans": [],
+    "usphone": "ˈfrɛndlɪ",
+    "ukphone": "ˈfrendlɪ"
+  },
+  {
+    "name": "frozen",
+    "trans": [],
+    "usphone": "'frozn",
+    "ukphone": "'frəʊzn"
+  },
+  {
+    "name": "fuel",
+    "trans": [
+      "Wood is the fuel that burns to make heat in this fire.",
+      "Fuel is something that creates heat or energy."
+    ],
+    "usphone": "'fjuəl",
+    "ukphone": "fjʊəl"
+  },
+  {
+    "name": "fully",
+    "trans": [],
+    "usphone": "'fʊli",
+    "ukphone": "'fʊlɪ"
+  },
+  {
+    "name": "functions",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "fundamental",
+    "trans": [
+      "The fundamental rules of basketball are easy.",
+      "If something is fundamental, it is a basic part of something."
+    ],
+    "usphone": ",fʌndə'mɛntl",
+    "ukphone": "ˌfʌndə'mentl"
+  },
+  {
+    "name": "funding",
+    "trans": [],
+    "usphone": "ˈfʌndɪŋ",
+    "ukphone": "ˈfʌndɪŋ"
+  },
+  {
+    "name": "gender",
+    "trans": [
+      "Do you know the gender of her new baby?",
+      "Gender is a category that describes being either a boy or a girl."
+    ],
+    "usphone": "'dʒɛndɚ",
+    "ukphone": "'dʒendər"
+  },
+  {
+    "name": "generate",
+    "trans": [
+      "The mayor promised to generate new jobs and programs to help the poor.",
+      "To generate something means to cause it to develop or begin."
+    ],
+    "usphone": "'dʒɛnəret",
+    "ukphone": "'dʒenəreɪt"
+  },
+  {
+    "name": "genetic",
+    "trans": [
+      "The color of one’s eyes is genetic.",
+      "If something is genetic, it is related to the genes in one’s body."
+    ],
+    "usphone": "dʒə'nɛtɪk",
+    "ukphone": "dʒə'netɪk"
+  },
+  {
+    "name": "genius",
+    "trans": [
+      "Since she was a genius, she easily passed all of her school exams.",
+      "A genius is a very smart person."
+    ],
+    "usphone": "'dʒinjəs",
+    "ukphone": "'dʒiːniəs"
+  },
+  {
+    "name": "geological",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "global",
+    "trans": [
+      "Pollution is a global problem.",
+      "If something is global, it happens all around the world."
+    ],
+    "usphone": "'ɡlobl",
+    "ukphone": "'gləʊb(ə)l"
+  },
+  {
+    "name": "globalization",
+    "trans": [],
+    "usphone": "ˌɡləubəlai'zeiʃən",
+    "ukphone": "ˌɡləubəlai'zeiʃən"
+  },
+  {
+    "name": "globalize",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "golden",
+    "trans": [],
+    "usphone": "'ɡoldən",
+    "ukphone": "'gəʊld(ə)n"
+  },
+  {
+    "name": "government",
+    "trans": [],
+    "usphone": "'ɡʌvɚnmənt",
+    "ukphone": "ˈgʌvənmənt"
+  },
+  {
+    "name": "gradually",
+    "trans": [],
+    "usphone": "'grædʒʊəli",
+    "ukphone": "'grædʒʊlɪ; 'grædjʊəlɪ"
+  },
+  {
+    "name": "gravity",
+    "trans": [
+      "There is no gravity in space.",
+      "Gravity is the force that makes things fall to Earth."
+    ],
+    "usphone": "ˈɡrævətɪ",
+    "ukphone": "'grævəti"
+  },
+  {
+    "name": "growth",
+    "trans": [],
+    "usphone": "ɡroθ",
+    "ukphone": "grəʊθ"
+  },
+  {
+    "name": "handmade",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "health",
+    "trans": [
+      "People who want good health should not smoke.",
+      "Health is the state of a person’s body."
+    ],
+    "usphone": "hɛlθ",
+    "ukphone": "helθ"
+  },
+  {
+    "name": "hire",
+    "trans": [
+      "We hired a man to paint our house.",
+      "To hire someone is to pay that person money to work for you."
+    ],
+    "usphone": "'haɪɚ",
+    "ukphone": "'haɪə"
+  },
+  {
+    "name": "historical",
+    "trans": [],
+    "usphone": "hɪ'stɔrɪkl",
+    "ukphone": "hi'stɔrikəl"
+  },
+  {
+    "name": "Hollywood",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "hooks",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "household",
+    "trans": [
+      "Our household is made up of my father, my mother, and me.",
+      "A household is all the people who live in one house."
+    ],
+    "usphone": "'haʊshold",
+    "ukphone": "'haushould"
+  },
+  {
+    "name": "housing",
+    "trans": [],
+    "usphone": "'haʊzɪŋ",
+    "ukphone": "haʊzɪŋ"
+  },
+  {
+    "name": "HTML",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "identical",
+    "trans": [
+      "James and John are identical twins.",
+      "To be identical is to be the same as someone or something else."
+    ],
+    "usphone": "aɪ'dɛntɪkl",
+    "ukphone": "aɪ'dentɪkl"
+  },
+  {
+    "name": "identify",
+    "trans": [
+      "I used the file to identify his name.",
+      "To identify something is to find out what it is."
+    ],
+    "usphone": "aɪ'dɛntɪfaɪ",
+    "ukphone": "aɪ'dentɪfaɪ"
+  },
+  {
+    "name": "identity theory",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "immensely",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "immigrants",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "immigration",
+    "trans": [],
+    "usphone": "ˌɪmɪˈɡreɪʃn",
+    "ukphone": "ˌɪmɪˈɡreɪʃn"
+  },
+  {
+    "name": "important",
+    "trans": [],
+    "usphone": "ɪm'pɔrtnt",
+    "ukphone": "ɪm'pɔːt(ə)nt"
+  },
+  {
+    "name": "improve",
+    "trans": [
+      "He studied hard to improve his test scores from the previous year.",
+      "To improve something means to make it better."
+    ],
+    "usphone": "ɪm'pruv",
+    "ukphone": "ɪm'pruːv"
+  },
+  {
+    "name": "inactive",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "income",
+    "trans": [
+      "She was saving her income to buy a house.",
+      "An income is the money you earned from work."
+    ],
+    "usphone": "'ɪnkʌm",
+    "ukphone": "'ɪnkʌm"
+  },
+  {
+    "name": "increasingly",
+    "trans": [],
+    "usphone": "ɪn'krisɪŋli",
+    "ukphone": "ɪn'kriːsɪŋlɪ"
+  },
+  {
+    "name": "incredibly",
+    "trans": [],
+    "usphone": "ɪn'krɛdəbli",
+    "ukphone": "ɪn'kredɪblɪ"
+  },
+  {
+    "name": "industrial",
+    "trans": [],
+    "usphone": "ɪn'dʌstrɪəl",
+    "ukphone": "ɪn'dʌstrɪəl"
+  },
+  {
+    "name": "industrialization",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "inherited",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "innovation",
+    "trans": [
+      "Mrs. Johnson made a great innovation to the company’s business plan.",
+      "An innovation is a product, or an idea, that is new or very original."
+    ],
+    "usphone": ",ɪnə'veʃən",
+    "ukphone": "ˌɪnəˈveɪʃn"
+  },
+  {
+    "name": "instant",
+    "trans": [
+      "A microwave oven cooks food in an instant.",
+      "An instant is a very short amount of time."
+    ],
+    "usphone": "'ɪnstənt",
+    "ukphone": "'instənt"
+  },
+  {
+    "name": "instinctive",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "integration",
+    "trans": [],
+    "usphone": "ˌɪntɪˈɡreɪʃn",
+    "ukphone": "ˌɪntɪˈɡreɪʃn"
+  },
+  {
+    "name": "intelligence",
+    "trans": [
+      "Because of his high intelligence, he finished school early.",
+      "Intelligence is the ability to learn and understand things."
+    ],
+    "usphone": "ɪn'tɛlɪdʒəns",
+    "ukphone": "ɪn'telɪdʒəns"
+  },
+  {
+    "name": "intense",
+    "trans": [
+      "The skunk made an intense odor that filled the air.",
+      "An intense thing is very strong."
+    ],
+    "usphone": "ɪn'tɛns",
+    "ukphone": "ɪn'tens"
+  },
+  {
+    "name": "intensive",
+    "trans": [],
+    "usphone": "ɪnˈtensɪv",
+    "ukphone": "ɪnˈtensɪv"
+  },
+  {
+    "name": "internet",
+    "trans": [],
+    "usphone": "'ɪntɚnɛt",
+    "ukphone": "'ɪntənet"
+  },
+  {
+    "name": "interpret",
+    "trans": [
+      "It is difficult to interpret while someone is speaking.",
+      "When you interpret something, you find its meaning, often by changing it into a different language."
+    ],
+    "usphone": "ɪn'tɝprɪt",
+    "ukphone": "ɪn'tɜːrprɪt"
+  },
+  {
+    "name": "involvement",
+    "trans": [],
+    "usphone": "ɪn'vɔlvmənt",
+    "ukphone": "ɪn'vɒlvm(ə)nt"
+  },
+  {
+    "name": "journalism",
+    "trans": [
+      "Before becoming a teacher, she worked in journalism.",
+      "Journalism is the work of collecting the news to put in newspapers or on TV."
+    ],
+    "usphone": "'dʒɝnl'ɪzəm",
+    "ukphone": "'dʒɜːrnəlɪzəm"
+  },
+  {
+    "name": "judges",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "judicial",
+    "trans": [],
+    "usphone": "dʒuˈdɪʃl",
+    "ukphone": "dʒuˈdɪʃl"
+  },
+  {
+    "name": "labour",
+    "trans": [],
+    "usphone": "'leibə",
+    "ukphone": "'leɪbə"
+  },
+  {
+    "name": "lack",
+    "trans": [
+      "His only problem is a lack of money.",
+      "If there is a lack of something, there is not enough of it."
+    ],
+    "usphone": "læk",
+    "ukphone": "læk"
+  },
+  {
+    "name": "language",
+    "trans": [
+      "The reporter spoke a language Sally had never heard before.",
+      "A language is a system of communication."
+    ],
+    "usphone": "'læŋɡwɪdʒ",
+    "ukphone": "'læŋgwɪdʒ"
+  },
+  {
+    "name": "law",
+    "trans": [
+      "The students learned about different laws during social studies class.",
+      "A law is a rule made by the legislative body."
+    ],
+    "usphone": "lɔ",
+    "ukphone": "lɔː"
+  },
+  {
+    "name": "layer",
+    "trans": [
+      "There was a layer of snow on the tops of the houses this morning.",
+      "A layer covers over something or is one of several pieces lying on top of each other."
+    ],
+    "usphone": "'leɪr",
+    "ukphone": "'ler"
+  },
+  {
+    "name": "legislation",
+    "trans": [],
+    "usphone": ",lɛdʒɪs'leʃən",
+    "ukphone": "ledʒɪs'leɪʃ(ə)n"
+  },
+  {
+    "name": "legislative",
+    "trans": [],
+    "usphone": "'lɛdʒɪsletɪv",
+    "ukphone": "'ledʒɪslətɪv"
+  },
+  {
+    "name": "life",
+    "trans": [
+      "My grandfather had a long life.",
+      "Life is the time when a person is alive."
+    ],
+    "usphone": "laɪf",
+    "ukphone": "laɪf"
+  },
+  {
+    "name": "threatening",
+    "trans": [],
+    "usphone": "'θrɛtnɪŋ",
+    "ukphone": "ˈθretnɪŋ"
+  },
+  {
+    "name": "line",
+    "trans": [
+      "This is the longest line I have ever seen.",
+      "A line is a row of people or things."
+    ],
+    "usphone": "laɪn",
+    "ukphone": "laɪn"
+  },
+  {
+    "name": "linguist",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "literally",
+    "trans": [],
+    "usphone": "'lɪtərəli",
+    "ukphone": "'lɪt(ə)rəlɪ"
+  },
+  {
+    "name": "literature",
+    "trans": [
+      "Early American literature covers the poetry and stories from 1500 to 1800.",
+      "Literature is books, plays, and poetry."
+    ],
+    "usphone": "lɪtərəˌtʃʊr",
+    "ukphone": "'lɪtrətʃər"
+  },
+  {
+    "name": "living",
+    "trans": [],
+    "usphone": "'lɪvɪŋ",
+    "ukphone": "'lɪvɪŋ"
+  },
+  {
+    "name": "logic",
+    "trans": [],
+    "usphone": "ˈlɑːdʒɪk",
+    "ukphone": "ˈlɒdʒɪk"
+  },
+  {
+    "name": "long-distance",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "make full use of",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "management",
+    "trans": [
+      "Practicing yoga is good for stress management.",
+      "Management is the act or process of controlling and dealing with something."
+    ],
+    "usphone": "'mænɪdʒmənt",
+    "ukphone": "'mænɪdʒm(ə)nt"
+  },
+  {
+    "name": "managers",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "manufacturers",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "manufacturing",
+    "trans": [],
+    "usphone": ",mænju'fæktʃərɪŋ",
+    "ukphone": "ˌmænju'fæktʃərɪŋ"
+  },
+  {
+    "name": "market",
+    "trans": [
+      "I go to the market every weekend to buy vegetables.",
+      "A market is a place where people buy and sell products or food."
+    ],
+    "usphone": "'mɑrkɪt",
+    "ukphone": "'mɑːkɪt"
+  },
+  {
+    "name": "economy",
+    "trans": [
+      "The factory was good for the economy because it brought jobs to the area.",
+      "An economy is the money and businesses of a country or region."
+    ],
+    "usphone": "ɪ'kɑnəmi",
+    "ukphone": "ɪ'kɒnəmɪ"
+  },
+  {
+    "name": "mars",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "materials",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "matters",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "medical",
+    "trans": [
+      "Tyler is a medical student studying to become a doctor.",
+      "Medical means related to the treatment of an injury or disease."
+    ],
+    "usphone": "'mɛdɪkl",
+    "ukphone": "'medɪk(ə)l"
+  },
+  {
+    "name": "medication",
+    "trans": [
+      "The doctor gave me medication to treat my illness.",
+      "Medication is medicine or drugs given to people who are sick."
+    ],
+    "usphone": "'mɛdɪ'keʃən",
+    "ukphone": "ˌmedɪ'keɪʃn"
+  },
+  {
+    "name": "mental",
+    "trans": [
+      "I made a mental picture of the room.",
+      "If something is mental, it has to do with your mind."
+    ],
+    "usphone": "'mɛntl",
+    "ukphone": "'mentl"
+  },
+  {
+    "name": "metabolism",
+    "trans": [
+      "If you exercise every day, your metabolism speeds up.",
+      "A person’s metabolism is the way chemical processes in their body use energy."
+    ],
+    "usphone": "mɛ'tæbəlɪzəm",
+    "ukphone": "mɪ'tæbəlɪz(ə)m"
+  },
+  {
+    "name": "methodical",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "military",
+    "trans": [
+      "I joined the military after I finished high school.",
+      "The military is the armed forces of a country."
+    ],
+    "usphone": "'mɪlətɛri",
+    "ukphone": "'mɪləteri"
+  },
+  {
+    "name": "millions",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "mining",
+    "trans": [],
+    "usphone": "ˈmaɪnɪŋ",
+    "ukphone": "ˈmaɪnɪŋ"
+  },
+  {
+    "name": "misunderstood",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "models",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "modified",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "molecule",
+    "trans": [
+      "A tiny drop of water is made up of many billions of molecules of water.",
+      "A molecule is the smallest basic unit that makes up a physical substance."
+    ],
+    "usphone": "'mɑlɪkjul",
+    "ukphone": "'mɑːlɪkjuːl"
+  },
+  {
+    "name": "momentum",
+    "trans": [],
+    "usphone": "moʊˈmentəm",
+    "ukphone": "məˈmentəm"
+  },
+  {
+    "name": "monitor",
+    "trans": [
+      "The teacher monitors the students when they take tests.",
+      "To monitor people or things is to watch them closely."
+    ],
+    "usphone": "'mɔnɪtɚ",
+    "ukphone": "'mɒnɪtə"
+  },
+  {
+    "name": "Moore's law",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "moral",
+    "trans": [
+      "At the end of the story, the mother explained the moral to her children.",
+      "A moral is a message at the end of a story that teaches you something."
+    ],
+    "usphone": "'mɔrəl",
+    "ukphone": "'mɔːrəl"
+  },
+  {
+    "name": "mortgage",
+    "trans": [
+      "When they bought their new home, the married couple had to sign a mortgage.",
+      "A mortgage is a loan for property, especially a home or a business."
+    ],
+    "usphone": "'mɔrɡɪdʒ",
+    "ukphone": "'mɔːrgɪdʒ"
+  },
+  {
+    "name": "motivation",
+    "trans": [],
+    "usphone": "ˌmoʊtɪˈveɪʃn",
+    "ukphone": "ˌməʊtɪˈveɪʃn"
+  },
+  {
+    "name": "mountains",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "multicultural",
+    "trans": [
+      "Everyone was welcome to attend the multicultural celebration.",
+      "When something is multicultural, it relates to many different cultures."
+    ],
+    "usphone": "'mʌltɪ'kʌltʃərəl",
+    "ukphone": "mʌltɪ'kʌltʃ(ə)r(ə)l"
+  },
+  {
+    "name": "multi",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "destination",
+    "trans": [
+      "The destination of this plane is Munich, Germany.",
+      "A destination is the place where someone or something is going."
+    ],
+    "usphone": ",dɛstɪ'neʃən",
+    "ukphone": "ˌdestɪ'neɪʃn"
+  },
+  {
+    "name": "museum",
+    "trans": [
+      "The Louvre is a famous museum in France.",
+      "A museum is a building that displays cultural, social, and scientific objects."
+    ],
+    "usphone": "mjuˈzɪəm",
+    "ukphone": "mjuː'zɪəm"
+  },
+  {
+    "name": "national",
+    "trans": [],
+    "usphone": "'næʃnəl",
+    "ukphone": "'næʃ(ə)n(ə)l"
+  },
+  {
+    "name": "natural",
+    "trans": [
+      "We need to take care of the natural world.",
+      "Things that are natural are not made by people."
+    ],
+    "usphone": "'nætʃrəl",
+    "ukphone": "ˈnætʃrəl"
+  },
+  {
+    "name": "selection",
+    "trans": [],
+    "usphone": "sɪ'lɛkʃən",
+    "ukphone": "sɪ'lekʃn"
+  },
+  {
+    "name": "nature",
+    "trans": [
+      "On the weekends, I love to walk in nature among the trees.",
+      "Nature is everything in the physical world that is not made by people."
+    ],
+    "usphone": "'netʃɚ",
+    "ukphone": "'neɪtʃə"
+  },
+  {
+    "name": "necessity",
+    "trans": [
+      "Fresh water is a necessity for life.",
+      "A necessity is something that is needed."
+    ],
+    "usphone": "nə'sɛsəti",
+    "ukphone": "nə'sesəti"
+  },
+  {
+    "name": "need",
+    "trans": [],
+    "usphone": "nid",
+    "ukphone": "niːd"
+  },
+  {
+    "name": "neighboring",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "network",
+    "trans": [
+      "Lesley is part of a volunteer network that plants trees in the city.",
+      "A network is a group of people or organizations that are in some way connected to each other."
+    ],
+    "usphone": "'nɛtwɝk",
+    "ukphone": "'netwɜːk"
+  },
+  {
+    "name": "nevertheless",
+    "trans": [
+      "He is usually friendly. Nevertheless, he wasn’t friendly this afternoon.",
+      "Nevertheless shows a difference to what is expected or known."
+    ],
+    "usphone": ",nɛvɚðə'lɛs",
+    "ukphone": "ˌnevərðə'les"
+  },
+  {
+    "name": "newspaper",
+    "trans": [],
+    "usphone": "'nuzpepɚ",
+    "ukphone": "'njuːzpeɪpə; 'njuːs-"
+  },
+  {
+    "name": "noisy",
+    "trans": [],
+    "usphone": "ˈnɔɪzɪ",
+    "ukphone": "ˈnɔɪzɪ"
+  },
+  {
+    "name": "non-overridable",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "normal",
+    "trans": [
+      "It is normal to wear school uniforms in private schools.",
+      "A normal thing is usual and not strange."
+    ],
+    "usphone": "'nɔrml",
+    "ukphone": "'nɔːm(ə)l"
+  },
+  {
+    "name": "novel",
+    "trans": [
+      "He wrote a great novel about ancient China.",
+      "A novel is a book that tells a story."
+    ],
+    "usphone": "ˈnɑːvl",
+    "ukphone": "'nɒv(ə)l"
+  },
+  {
+    "name": "nowadays",
+    "trans": [
+      "Nowadays, not so many people smoke.",
+      "Nowadays means at the present time."
+    ],
+    "usphone": "'naʊədez",
+    "ukphone": "'naʊədeɪz"
+  },
+  {
+    "name": "objective",
+    "trans": [
+      "My objective this week is to finish my homework by 7:30 every night.",
+      "An objective is a goal or plan that someone has."
+    ],
+    "usphone": "əb'dʒɛktɪv",
+    "ukphone": "əb'dʒektɪv"
+  },
+  {
+    "name": "obvious",
+    "trans": [
+      "It was obvious that he was tired. He kept falling asleep.",
+      "Obvious means clear or easy to see."
+    ],
+    "usphone": "'ɑbvɪəs",
+    "ukphone": "'ɒbvɪəs"
+  },
+  {
+    "name": "obviously",
+    "trans": [],
+    "usphone": "'ɑbvɪəsli",
+    "ukphone": "'ɒbvɪəslɪ"
+  },
+  {
+    "name": "occupancy",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "official",
+    "trans": [
+      "Her official degree was being transferred.",
+      "An official thing is approved by someone in authority."
+    ],
+    "usphone": "əˈfɪʃəl; oʊˈfɪʃəl",
+    "ukphone": "ə'fɪʃ(ə)l"
+  },
+  {
+    "name": "online",
+    "trans": [],
+    "usphone": "ˌɑːnˈlaɪn",
+    "ukphone": "ˌɒnˈlaɪn"
+  },
+  {
+    "name": "operate",
+    "trans": [
+      "I’m sorry, but the trains are not operating today.",
+      "To operate means to work or function."
+    ],
+    "usphone": "'ɑpə'ret",
+    "ukphone": "'ɑːpəreɪt"
+  },
+  {
+    "name": "opportunities",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "optical",
+    "trans": [],
+    "usphone": "ˈɑːptɪkl",
+    "ukphone": "ˈɒptɪkl"
+  },
+  {
+    "name": "ordinary",
+    "trans": [
+      "Today was just an ordinary day. Nothing unusual happened.",
+      "Ordinary means normal, or not special in any way."
+    ],
+    "usphone": "'ɔrdnɛri",
+    "ukphone": "'ɔːdɪn(ə)rɪ; -d(ə)n-"
+  },
+  {
+    "name": "organism",
+    "trans": [
+      "We studied the organism under the microscope.",
+      "An organism is a living thing, especially a very small one."
+    ],
+    "usphone": "'ɔrɡənɪzəm",
+    "ukphone": "'ɔːrgənɪzəm"
+  },
+  {
+    "name": "organization",
+    "trans": [],
+    "usphone": ",ɔrɡənə'zeʃən",
+    "ukphone": "ˌɔːɡənaɪ'zeɪʃn"
+  },
+  {
+    "name": "organization studies",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "original",
+    "trans": [
+      "This is the original painting of the Mona Lisa.",
+      "If something is original, it is the first one of that thing."
+    ],
+    "usphone": "ə'rɪdʒənl",
+    "ukphone": "ə'rɪdʒɪn(ə)l; ɒ-"
+  },
+  {
+    "name": "originally",
+    "trans": [
+      "This building was originally a bank.",
+      "Originally is used in place of “in the beginning” or “when something first happened or began.”"
+    ],
+    "usphone": "ə'rɪdʒənəli",
+    "ukphone": "ə'rɪdʒɪn(ə)lɪ"
+  },
+  {
+    "name": "outpouring",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "output",
+    "trans": [
+      "The boss hired more workers to increase the factory’s output of products.",
+      "Output is the amount of something that a person or thing produces."
+    ],
+    "usphone": "'aʊtpʊt",
+    "ukphone": "'autput"
+  },
+  {
+    "name": "overseas",
+    "trans": [
+      "John often goes overseas for vacations.",
+      "Overseas shows an action happens in another country, across an ocean."
+    ],
+    "usphone": ",ovɚ'siz",
+    "ukphone": "ˌouvər'siːz"
+  },
+  {
+    "name": "pain",
+    "trans": [
+      "His head was full of pain.",
+      "Pain is the feeling that you have when you are hurt."
+    ],
+    "usphone": "pen",
+    "ukphone": "peɪn"
+  },
+  {
+    "name": "panic",
+    "trans": [
+      "Everyone panicked when the house caught on fire.",
+      "To panic is to feel so nervous or afraid that one cannot think clearly."
+    ],
+    "usphone": "'pænɪk",
+    "ukphone": "'pænɪk"
+  },
+  {
+    "name": "paragraph",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "participate",
+    "trans": [
+      "The students participated in the school play.",
+      "To participate is to be active and do something."
+    ],
+    "usphone": "pɑr'tɪsə'pet",
+    "ukphone": "pɑːr'tɪsɪpeɪt"
+  },
+  {
+    "name": "particular",
+    "trans": [
+      "The dress shop didn’t have the particular dress she was looking for.",
+      "If something is particular, then it is a single, important part of a group of things."
+    ],
+    "usphone": "pɚ'tɪkjəlɚ",
+    "ukphone": "pər'tɪkjələr"
+  },
+  {
+    "name": "particularly",
+    "trans": [],
+    "usphone": "pɚ'tɪkjəlɚlɪ",
+    "ukphone": "pə'tɪkjʊləlɪ"
+  },
+  {
+    "name": "past",
+    "trans": [],
+    "usphone": "pæst",
+    "ukphone": "pɑːst"
+  },
+  {
+    "name": "patient",
+    "trans": [
+      "I had to be patient and wait until 5 o’clock to leave.",
+      "If people are patient, they don’t become angry or upset easily."
+    ],
+    "usphone": "ˈpeʃənt",
+    "ukphone": "'peɪʃ(ə)nt"
+  },
+  {
+    "name": "patterns",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "penalty",
+    "trans": [],
+    "usphone": "'pɛnəlti",
+    "ukphone": "'penəlti"
+  },
+  {
+    "name": "perform",
+    "trans": [
+      "He will perform a song for the class.",
+      "To perform is to do something in front of people who watch."
+    ],
+    "usphone": "pɚ'fɔrm",
+    "ukphone": "pər'fɔːrm"
+  },
+  {
+    "name": "performance",
+    "trans": [
+      "Liam’s performance in the race was not his best.",
+      "Performance is how well someone or something functions, works, etc."
+    ],
+    "usphone": "pɚ'fɔrməns",
+    "ukphone": "pə'fɔːm(ə)ns"
+  },
+  {
+    "name": "period",
+    "trans": [
+      "In one period in Europe, there were many knights.",
+      "A period is an amount of time when something happens."
+    ],
+    "usphone": "'pɪrɪəd",
+    "ukphone": "'pɪərɪəd"
+  },
+  {
+    "name": "personal",
+    "trans": [],
+    "usphone": "'pɝsənl",
+    "ukphone": "'pɜːs(ə)n(ə)l"
+  },
+  {
+    "name": "persuasive",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "philanthropic",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "philosophers",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pile",
+    "trans": [
+      "The pile of cups was beginning to lean.",
+      "A pile is a large group of things on top of one another."
+    ],
+    "usphone": "paɪl",
+    "ukphone": "paɪl"
+  },
+  {
+    "name": "plane",
+    "trans": [
+      "They took a plane across the ocean to India.",
+      "A plane is a vehicle that has an engine and wings and flies in the air."
+    ],
+    "usphone": "plen",
+    "ukphone": "pleɪn"
+  },
+  {
+    "name": "planet",
+    "trans": [
+      "Saturn is the planet with the ring around it.",
+      "A planet is a large round thing in space."
+    ],
+    "usphone": "'plænɪt",
+    "ukphone": "'plænɪt"
+  },
+  {
+    "name": "pleasure",
+    "trans": [],
+    "usphone": "ˈplɛʒɚ",
+    "ukphone": "'pleʒə"
+  },
+  {
+    "name": "politicians",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "pollinator",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "poor",
+    "trans": [
+      "The condition of the sidewalk is very poor.",
+      "When something is poor, it is not as good as it could or should be."
+    ],
+    "usphone": "pʊr",
+    "ukphone": "pɔ:(r)"
+  },
+  {
+    "name": "population",
+    "trans": [
+      "The population of our city is steadily growing.",
+      "A population is all the people living in an area."
+    ],
+    "usphone": "ˌpɑpjuˈleɪʃn",
+    "ukphone": "pɒpjʊ'leɪʃ(ə)n"
+  },
+  {
+    "name": "positive",
+    "trans": [
+      "She has a positive future ahead of her after finishing college.",
+      "If something is positive, it is good."
+    ],
+    "usphone": "'pɑzətɪv",
+    "ukphone": "'pɑːzətɪv"
+  },
+  {
+    "name": "Positive nature",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "negative",
+    "trans": [
+      "She doesn’t like to say negative things about her friends.",
+      "When something is negative, it is unpleasant or sad."
+    ],
+    "usphone": "'nɛɡətɪv",
+    "ukphone": "'negətɪv"
+  },
+  {
+    "name": "Negative nature",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "potential",
+    "trans": [
+      "I’ve thought of some potential problems with your idea.",
+      "Potential means capable of being but not yet actual or real."
+    ],
+    "usphone": "pə'tɛnʃl",
+    "ukphone": "pə'tenʃl"
+  },
+  {
+    "name": "powerful",
+    "trans": [
+      "This perfume has a powerful scent.",
+      "If something is powerful, it has a strong effect."
+    ],
+    "usphone": "'paʊɚfl",
+    "ukphone": "'paʊəfʊl; -f(ə)l"
+  },
+  {
+    "name": "precautionary",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "prediction",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "premium",
+    "trans": [
+      "Tony paid a premium for the gas because it made his car run better.",
+      "A premium is a payment that is higher than average."
+    ],
+    "usphone": "'primɪəm",
+    "ukphone": "'priːmɪəm"
+  },
+  {
+    "name": "presidents",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "primary",
+    "trans": [
+      "His primary thoughts are about money.",
+      "If something is primary, it is the most important thing."
+    ],
+    "usphone": "'praɪmɛri",
+    "ukphone": "'praɪm(ə)rɪ"
+  },
+  {
+    "name": "primitive",
+    "trans": [
+      "The computers of the 1980s are primitive compared to those of today.",
+      "If something is primitive, then it is simple, basic, and not very developed."
+    ],
+    "usphone": "'prɪmətɪv",
+    "ukphone": "'prɪmətɪv"
+  },
+  {
+    "name": "principle",
+    "trans": [
+      "To maintain principles, it’s vital to watch, listen, and speak carefully.",
+      "A principle is a belief about the correct way to behave."
+    ],
+    "usphone": "'prɪnsəpl",
+    "ukphone": "'prɪnsəpl"
+  },
+  {
+    "name": "principles",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "processes",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "produce",
+    "trans": [
+      "This tree produces apples every year.",
+      "To produce something is to make or grow it."
+    ],
+    "usphone": "prəˈdus;(for n.)ˈprɒdus; prɑdus",
+    "ukphone": "prəˈdju:s;(for n.)ˈprɒdju:s"
+  },
+  {
+    "name": "production",
+    "trans": [],
+    "usphone": "prə'dʌkʃən",
+    "ukphone": "prə'dʌkʃ(ə)n"
+  },
+  {
+    "name": "production of goods",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "productivity",
+    "trans": [],
+    "usphone": "ˌprɑːdʌkˈtɪvəti",
+    "ukphone": "ˌprɒdʌkˈtɪvəti"
+  },
+  {
+    "name": "professor",
+    "trans": [
+      "Mike’s science professor knows a lot about physics.",
+      "A professor is a person who teaches in college."
+    ],
+    "usphone": "prə'fɛsɚ",
+    "ukphone": "prə'fesə"
+  },
+  {
+    "name": "profound",
+    "trans": [
+      "For a young man, Jeremy has some profound thoughts.",
+      "Profound means deep or very intelligent."
+    ],
+    "usphone": "prə'faʊnd",
+    "ukphone": "prə'faund"
+  },
+  {
+    "name": "programmed",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "programming",
+    "trans": [],
+    "usphone": "'proɡræmɪŋ",
+    "ukphone": "ˈprəuɡræmiŋ"
+  },
+  {
+    "name": "projection",
+    "trans": [],
+    "usphone": "prəˈdʒekʃn",
+    "ukphone": "prəˈdʒekʃn"
+  },
+  {
+    "name": "promotes",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "promptly",
+    "trans": [],
+    "usphone": "'prɑmptli",
+    "ukphone": "ˈprɒmptli"
+  },
+  {
+    "name": "properties",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "prosperous",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "protective",
+    "trans": [],
+    "usphone": "prəˈtektɪv",
+    "ukphone": "prəˈtektɪv"
+  },
+  {
+    "name": "protein",
+    "trans": [
+      "Fish and beef are good sources of protein.",
+      "Protein is a substance that is necessary for the body to grow and be strong."
+    ],
+    "usphone": "'protin",
+    "ukphone": "'proutiːn"
+  },
+  {
+    "name": "proved",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "psychological",
+    "trans": [],
+    "usphone": ",saɪkə'lɑdʒɪkl",
+    "ukphone": "saɪkə'lɒdʒɪk(ə)l"
+  },
+  {
+    "name": "publish",
+    "trans": [
+      "That company publishes daily newspapers.",
+      "To publish a book is to get it printed and ready to sell."
+    ],
+    "usphone": "'pʌblɪʃ",
+    "ukphone": "'pʌblɪʃ"
+  },
+  {
+    "name": "pulled",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "purchasing",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "purpose",
+    "trans": [
+      "The purpose of exercising is to get into shape.",
+      "A purpose is the reason that you do something."
+    ],
+    "usphone": "'pɝpəs",
+    "ukphone": "'pɜːpəs"
+  },
+  {
+    "name": "push and pull effects",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "raise",
+    "trans": [],
+    "usphone": "rez",
+    "ukphone": "reɪz"
+  },
+  {
+    "name": "readable",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "reclamation",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "recovery",
+    "trans": [],
+    "usphone": "rɪ'kʌvəri",
+    "ukphone": "rɪ'kʌv(ə)rɪ"
+  },
+  {
+    "name": "regulations",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "reject",
+    "trans": [
+      "I’m afraid the teacher will reject my new idea.",
+      "To reject is to refuse to accept, believe in, or agree with something."
+    ],
+    "usphone": "rɪ'dʒɛkt",
+    "ukphone": "rɪ'dʒekt"
+  },
+  {
+    "name": "relation",
+    "trans": [],
+    "usphone": "rɪ'leʃən",
+    "ukphone": "rɪ'leɪʃ(ə)n"
+  },
+  {
+    "name": "release",
+    "trans": [
+      "She released the bird from her hands.",
+      "To release something is to stop holding it."
+    ],
+    "usphone": "rɪ'lis",
+    "ukphone": "rɪ'liːs"
+  },
+  {
+    "name": "remarkable",
+    "trans": [],
+    "usphone": "rɪ'mɑrkəbl",
+    "ukphone": "rɪ'mɑːrkəbl"
+  },
+  {
+    "name": "remove",
+    "trans": [
+      "I removed the nail from the board.",
+      "To remove something is to take it away."
+    ],
+    "usphone": "rɪ'muv",
+    "ukphone": "rɪ'muːv"
+  },
+  {
+    "name": "renewable",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "require",
+    "trans": [
+      "We require teachers to have a university degree.",
+      "To require something is to say that it is necessary."
+    ],
+    "usphone": "rɪ'kwaɪr",
+    "ukphone": "rɪ'kwaɪə"
+  },
+  {
+    "name": "research",
+    "trans": [
+      "Scientists did a lot of research on the subject of blood type.",
+      "Research is close and careful study to discover new things."
+    ],
+    "usphone": "'risɝtʃ",
+    "ukphone": "rɪ'sɜːtʃ; 'riːsɜːtʃ"
+  },
+  {
+    "name": "resource",
+    "trans": [
+      "The poor man didn’t have the resources to feed himself.",
+      "Resources are a person’s or country’s money and materials that they can use."
+    ],
+    "usphone": "'risɔrs",
+    "ukphone": "'riːsɔːrs"
+  },
+  {
+    "name": "respectively",
+    "trans": [],
+    "usphone": "rɪ'spɛktɪvli",
+    "ukphone": "rɪ'spektɪvlɪ"
+  },
+  {
+    "name": "rest",
+    "trans": [
+      "I rested on the couch after work.",
+      "To rest is to stop being active while the body gets back its strength."
+    ],
+    "usphone": "rɛst",
+    "ukphone": "rest"
+  },
+  {
+    "name": "rising",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rock",
+    "trans": [
+      "I stacked rocks on top of one another.",
+      "A rock is a hard thing in the dirt."
+    ],
+    "usphone": "rɑk",
+    "ukphone": "rɒk"
+  },
+  {
+    "name": "roman",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "rooted",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "roughly",
+    "trans": [],
+    "usphone": "'rʌfli",
+    "ukphone": "'rʌflɪ"
+  },
+  {
+    "name": "rules",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "run",
+    "trans": [],
+    "usphone": "rʌn",
+    "ukphone": "rʌn"
+  },
+  {
+    "name": "rupture",
+    "trans": [
+      "Sarah put too much water into the balloon, and it ruptured.",
+      "To rupture means to tear or burst open."
+    ],
+    "usphone": "'rʌptʃɚ",
+    "ukphone": "'rʌptʃər"
+  },
+  {
+    "name": "safer",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "safety",
+    "trans": [
+      "For his own safety, he was placed in a car seat.",
+      "Safety means the condition of being safe and free from danger."
+    ],
+    "usphone": "'sefti",
+    "ukphone": "'seɪftɪ"
+  },
+  {
+    "name": "samples",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "scale",
+    "trans": [
+      "I was surprised by the scale of the buildings in the downtown area.",
+      "The scale of something is its size, especially when it is very large."
+    ],
+    "usphone": "skel",
+    "ukphone": "skeɪl"
+  },
+  {
+    "name": "scepticism",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "scientific",
+    "trans": [],
+    "usphone": ",saɪən'tɪfɪk",
+    "ukphone": "ˌsaɪən'tɪfɪk"
+  },
+  {
+    "name": "scratch",
+    "trans": [],
+    "usphone": "skrætʃ",
+    "ukphone": "skrætʃ"
+  },
+  {
+    "name": "second moment of truth",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "security",
+    "trans": [],
+    "usphone": "sə'kjʊrəti",
+    "ukphone": "sɪ'kjʊərətɪ"
+  },
+  {
+    "name": "self",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "preservation",
+    "trans": [],
+    "usphone": "ˌprezərˈveɪʃn",
+    "ukphone": "ˌprezəˈveɪʃn"
+  },
+  {
+    "name": "sentences",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "separation",
+    "trans": [],
+    "usphone": "ˌsepəˈreɪʃn",
+    "ukphone": "ˌsepəˈreɪʃn"
+  },
+  {
+    "name": "several",
+    "trans": [
+      "He had to read several books for class.",
+      "Several is more than two but not many."
+    ],
+    "usphone": "ˈsɛvrəl",
+    "ukphone": "ˈsevrəl"
+  },
+  {
+    "name": "sewerage",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "shortage",
+    "trans": [
+      "During the dry season, there was a shortage of water.",
+      "Shortage comes from short and means not having enough."
+    ],
+    "usphone": "'ʃɔrtɪdʒ",
+    "ukphone": "'ʃɔːrtɪdʒ"
+  },
+  {
+    "name": "siblings",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "side",
+    "trans": [],
+    "usphone": "saɪd",
+    "ukphone": "saɪd"
+  },
+  {
+    "name": "benefits",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "significantly",
+    "trans": [],
+    "usphone": "sɪg'nɪfɪkəntli",
+    "ukphone": "sɪg'nɪfɪk(ə)ntlɪ"
+  },
+  {
+    "name": "similar",
+    "trans": [
+      "I have had a similar experience to the one you described.",
+      "Things which are similar are almost the same."
+    ],
+    "usphone": "'sɪməlɚ",
+    "ukphone": "'sɪmɪlə"
+  },
+  {
+    "name": "similarity",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "simply",
+    "trans": [],
+    "usphone": "'sɪmpli",
+    "ukphone": "'sɪmplɪ"
+  },
+  {
+    "name": "skills",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "solar",
+    "trans": [
+      "Using solar energy is good for the environment.",
+      "If something is solar, it is related to the sun."
+    ],
+    "usphone": "'solɚ",
+    "ukphone": "'səʊlə"
+  },
+  {
+    "name": "sophisticated",
+    "trans": [
+      "Jake is one of the most sophisticated people I’ve ever met.",
+      "If someone is sophisticated, they know many things about the world."
+    ],
+    "usphone": "sə'fɪstɪketɪd",
+    "ukphone": "sə'fɪstɪkeɪtɪd"
+  },
+  {
+    "name": "source",
+    "trans": [
+      "The river was the source of drinking water for the village.",
+      "A source of something is the place that it comes from."
+    ],
+    "usphone": "sɔrs",
+    "ukphone": "sɔːrs"
+  },
+  {
+    "name": "species",
+    "trans": [
+      "There are 21 different species of butterfly in this forest.",
+      "A species is a type of plant or animal."
+    ],
+    "usphone": "'spiʃiz",
+    "ukphone": "'spiːsiːz"
+  },
+  {
+    "name": "staff",
+    "trans": [
+      "My dad has a staff of four people to help him at the office.",
+      "A staff is a group of people working together in a company."
+    ],
+    "usphone": "stæf",
+    "ukphone": "stæf"
+  },
+  {
+    "name": "stampede",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "starting",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "point",
+    "trans": [],
+    "usphone": "pɔɪnt",
+    "ukphone": "pɒɪnt"
+  },
+  {
+    "name": "state",
+    "trans": [
+      "The president stated his opinion about the world’s health concerns.",
+      "To state something means to say it in a definite way."
+    ],
+    "usphone": "stet",
+    "ukphone": "steɪt"
+  },
+  {
+    "name": "statistics",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "storing",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "strategy",
+    "trans": [
+      "The team came up with a strategy to win the game.",
+      "A strategy is a plan for how to do something."
+    ],
+    "usphone": "'strætədʒi",
+    "ukphone": "'strætədʒi"
+  },
+  {
+    "name": "stress",
+    "trans": [
+      "Dan has a lot of stress at work.",
+      "Stress is a strong feeling of worry caused by problems in life, work, etc."
+    ],
+    "usphone": "strɛs",
+    "ukphone": "stres"
+  },
+  {
+    "name": "stress on",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "strong",
+    "trans": [],
+    "usphone": "strɔŋ",
+    "ukphone": "strɒŋ"
+  },
+  {
+    "name": "wording",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "strongest",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "structure",
+    "trans": [
+      "There are big differences in family structure in different cultures.",
+      "The structure involves the shape and organization of the parts of a building or group."
+    ],
+    "usphone": "'strʌktʃɚ",
+    "ukphone": "'strʌktʃə"
+  },
+  {
+    "name": "substantial",
+    "trans": [
+      "The bank said that he owed it a substantial amount of money.",
+      "If something is substantial, then it is of great importance, size, or value."
+    ],
+    "usphone": "səbˈstænʃəl",
+    "ukphone": "sʌb'stænʃl"
+  },
+  {
+    "name": "succeeded",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "suffer",
+    "trans": [
+      "Her headache made her suffer all day.",
+      "To suffer is to feel pain."
+    ],
+    "usphone": "'sʌfɚ",
+    "ukphone": "'sʌfə"
+  },
+  {
+    "name": "supply",
+    "trans": [
+      "The water heater supplied the house with warm water.",
+      "To supply something means to give people what they need or want."
+    ],
+    "usphone": "sə'plaɪ",
+    "ukphone": "sə'plaɪ"
+  },
+  {
+    "name": "support",
+    "trans": [
+      "Everyone at work supports the new plan.",
+      "To support something is to like it and help it be successful."
+    ],
+    "usphone": "sə'pɔrt",
+    "ukphone": "sə'pɔːt"
+  },
+  {
+    "name": "surface",
+    "trans": [
+      "She wiped the surface of the table.",
+      "The surface is the top layer of something."
+    ],
+    "usphone": "'sɝfɪs",
+    "ukphone": "'sɜːfɪs"
+  },
+  {
+    "name": "suspects",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "suspicious",
+    "trans": [
+      "Dad was suspicious of the caller on the line.",
+      "A suspicious person does not trust others, or is not trusted by others."
+    ],
+    "usphone": "sə'spɪʃəs",
+    "ukphone": "sə'spɪʃəs"
+  },
+  {
+    "name": "switching",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "symbols",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "symptoms",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "synthesize",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "systems",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "talent",
+    "trans": [
+      "Maria has a talent for playing the piano.",
+      "A talent is a natural ability to do something well."
+    ],
+    "usphone": "'tælənt",
+    "ukphone": "'tælənt"
+  },
+  {
+    "name": "talented",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "technology",
+    "trans": [
+      "He loves technology such as laptop computers.",
+      "Technology is new things made by using science."
+    ],
+    "usphone": "tɛkˈnɑlədʒɪ",
+    "ukphone": "tek'nɒlədʒɪ"
+  },
+  {
+    "name": "term",
+    "trans": [
+      "I often use the term “oops” when I make a mistake.",
+      "A term is a word for something."
+    ],
+    "usphone": "tɝm",
+    "ukphone": "tɜːm"
+  },
+  {
+    "name": "textbooks",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "textile",
+    "trans": [
+      "The blue textile was going to be used to make blouses.",
+      "Textile is cloth that has been woven or knitted."
+    ],
+    "usphone": "'tɛkstaɪl",
+    "ukphone": "'tekstaɪl"
+  },
+  {
+    "name": "British",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "great",
+    "trans": [
+      "It was a great, exciting game!",
+      "When something is great, it is very good."
+    ],
+    "usphone": "ɡret",
+    "ukphone": "greɪt"
+  },
+  {
+    "name": "depression",
+    "trans": [
+      "Ron decided to get help for his depression.",
+      "Depression is a medical condition that makes a person very unhappy for long periods of time."
+    ],
+    "usphone": "dɪ'prɛʃən",
+    "ukphone": "dɪ'preʃ(ə)n"
+  },
+  {
+    "name": "human",
+    "trans": [],
+    "usphone": "'hjumən",
+    "ukphone": "'hjuːmən"
+  },
+  {
+    "name": "rights",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "act",
+    "trans": [],
+    "usphone": "ækt",
+    "ukphone": "ækt"
+  },
+  {
+    "name": "industrial",
+    "trans": [],
+    "usphone": "ɪn'dʌstrɪəl",
+    "ukphone": "ɪn'dʌstrɪəl"
+  },
+  {
+    "name": "revolution",
+    "trans": [
+      "The revolution in Russia led to the creation of the Soviet Union.",
+      "A revolution is a change to the political system by a group of people."
+    ],
+    "usphone": "'rɛvə'lʊʃən",
+    "ukphone": "ˌrevə'luːʃn"
+  },
+  {
+    "name": "republic",
+    "trans": [],
+    "usphone": "rɪ'pʌblɪk",
+    "ukphone": "rɪ'pʌblɪk"
+  },
+  {
+    "name": "travels",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "therapeutic",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "threatened",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "throughout",
+    "trans": [],
+    "usphone": "θrʊ'aʊt",
+    "ukphone": "θruː'aʊt"
+  },
+  {
+    "name": "thrown",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Tim",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Berners",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Lee",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "time",
+    "trans": [],
+    "usphone": "taɪm",
+    "ukphone": "taɪm"
+  },
+  {
+    "name": "management",
+    "trans": [
+      "Practicing yoga is good for stress management.",
+      "Management is the act or process of controlling and dealing with something."
+    ],
+    "usphone": "'mænɪdʒmənt",
+    "ukphone": "'mænɪdʒm(ə)nt"
+  },
+  {
+    "name": "totally",
+    "trans": [
+      "I am totally against that.",
+      "If you totally agree, you agree with everything just said."
+    ],
+    "usphone": "'totəli",
+    "ukphone": "'təʊtəlɪ"
+  },
+  {
+    "name": "touring",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "tourism",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "traces",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "traditional",
+    "trans": [
+      "I prefer traditional furniture.",
+      "When something is traditional, it is based on old-fashioned ideas."
+    ],
+    "usphone": "trə'dɪʃənl",
+    "ukphone": "trə'dɪʃ(ə)n(ə)l"
+  },
+  {
+    "name": "transfer",
+    "trans": [
+      "The family transferred the groceries from the shopping cart to the car.",
+      "To transfer something means to move it from one place to another."
+    ],
+    "usphone": "træns'fɝ",
+    "ukphone": "'trænsˌfɜːr"
+  },
+  {
+    "name": "transformative",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "transmission",
+    "trans": [],
+    "usphone": "trænzˈmɪʃn",
+    "ukphone": "trænzˈmɪʃn"
+  },
+  {
+    "name": "transportation",
+    "trans": [
+      "I don’t have a car, so my normal transportation is the train.",
+      "Transportation is any type of vehicle that can carry people or things."
+    ],
+    "usphone": ",trænspɔr'teʃən",
+    "ukphone": "ˌtrænspɔːr'teɪʃn"
+  },
+  {
+    "name": "ultimately",
+    "trans": [],
+    "usphone": "'ʌltɪmətli",
+    "ukphone": "'ʌltɪmətlɪ"
+  },
+  {
+    "name": "unemployment",
+    "trans": [],
+    "usphone": ",ʌnɪm'plɔɪmənt",
+    "ukphone": "ʌnɪm'plɒɪm(ə)nt; -em-"
+  },
+  {
+    "name": "unexpected",
+    "trans": [],
+    "usphone": "'ʌnɪk'spɛktɪd",
+    "ukphone": "ʌnɪk'spektɪd"
+  },
+  {
+    "name": "unfair",
+    "trans": [],
+    "usphone": "'ʌn'fɛr",
+    "ukphone": "ʌn'feə"
+  },
+  {
+    "name": "uninterrupted",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "unique",
+    "trans": [
+      "Her dog is unique. I’ve never seen one quite like it.",
+      "A unique person or thing is not like others."
+    ],
+    "usphone": "jʊ'nik",
+    "ukphone": "ju'niːk"
+  },
+  {
+    "name": "universe",
+    "trans": [],
+    "usphone": "'junɪvɝs",
+    "ukphone": "'juːnɪvɜːs"
+  },
+  {
+    "name": "universities",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "unyielding",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "urgency",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "usable",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "utility",
+    "trans": [
+      "If you don’t pay the utilities, you may have your electricity turned off.",
+      "A utility is a business that supplies services such as water or electricity."
+    ],
+    "usphone": "ju'tɪləti",
+    "ukphone": "juː'tɪləti"
+  },
+  {
+    "name": "value",
+    "trans": [
+      "Your love for me has greater value than gold.",
+      "The value of something is what it is worth."
+    ],
+    "usphone": "'vælju",
+    "ukphone": "'væljuː"
+  },
+  {
+    "name": "varied",
+    "trans": [],
+    "usphone": "'vɛrɪd",
+    "ukphone": "'veərɪd"
+  },
+  {
+    "name": "variety",
+    "trans": [
+      "There are a variety of flowers at the shop.",
+      "A variety of something is a group of many different kinds of it."
+    ],
+    "usphone": "və'raɪəti",
+    "ukphone": "və'raɪətɪ"
+  },
+  {
+    "name": "various",
+    "trans": [
+      "She owned shoes of various styles.",
+      "If something is various, there are many types of it."
+    ],
+    "usphone": "'vɛrɪəs",
+    "ukphone": "'veərɪəs"
+  },
+  {
+    "name": "vehicles",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "version",
+    "trans": [
+      "She read the students British version of the Chinese fairy tale.",
+      "A version is an account of something that differs slightly from the original."
+    ],
+    "usphone": "'vɝʒn",
+    "ukphone": "'vɜːrʒn"
+  },
+  {
+    "name": "vertically",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "vice",
+    "trans": [],
+    "usphone": "vaɪs",
+    "ukphone": "vaɪs"
+  },
+  {
+    "name": "chancellor",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "Victoria",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "village",
+    "trans": [
+      "There are only a few houses in my village.",
+      "A village is a very small town."
+    ],
+    "usphone": "'vɪlɪdʒ",
+    "ukphone": "'vɪlɪdʒ"
+  },
+  {
+    "name": "visible",
+    "trans": [],
+    "usphone": "'vɪzəbl",
+    "ukphone": "'vɪzəb"
+  },
+  {
+    "name": "vital",
+    "trans": [
+      "The heart is a vital organ.",
+      "Something vital is necessary for life."
+    ],
+    "usphone": "'vaɪtl",
+    "ukphone": "'vaɪtl"
+  },
+  {
+    "name": "vocabulary",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "volume",
+    "trans": [
+      "The volume of cars in the parking lot was steadily increasing.",
+      "The volume is the total amount of something."
+    ],
+    "usphone": "'vɑljum",
+    "ukphone": "'vɑːljuːm"
+  },
+  {
+    "name": "wealth",
+    "trans": [
+      "One of the most important things for some people is wealth.",
+      "Wealth is the total of one’s possessions (money, land, etc.)."
+    ],
+    "usphone": "wɛlθ",
+    "ukphone": "welθ"
+  },
+  {
+    "name": "web",
+    "trans": [
+      "Mom cleaned the spider webs out of the garage.",
+      "A web is a home made by a spider."
+    ],
+    "usphone": "wɛb",
+    "ukphone": "web"
+  },
+  {
+    "name": "well-being",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "well-designed",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "well-educated",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "wildlife",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "worldwide",
+    "trans": [],
+    "usphone": "",
+    "ukphone": ""
+  },
+  {
+    "name": "worst",
+    "trans": [],
+    "usphone": "wɝst",
+    "ukphone": "wɜːst"
+  }
+]

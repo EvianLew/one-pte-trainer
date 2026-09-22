@@ -1,0 +1,20 @@
+{
+  "fib_total": 467,
+  "fib_with_examples": 182,
+  "fib_with_chinese_meaning": 467,
+  "sst_source_vocab_rows": 568,
+  "sst_unique_vocab": 561,
+  "sst_questions": 97,
+  "sst_highest_frequency_questions": 54,
+  "sst_training_items_by_question": 1181,
+  "sst_items_with_examples": 1173,
+  "sst_examples_with_chinese_explanation": 1173,
+  "sst_unique_words_matched": 550,
+  "sst_unique_words_unmatched": 11,
+  "sgd_total_phrases": 525,
+  "sgd_topics": 20,
+  "sgd_categories": 5,
+  "sgd_local_audio_files": 0,
+  "sgd_audio_engine": "browser/system SpeechSynthesis",
+  "sgd_original_context_status": "pending-readable-source"
+}

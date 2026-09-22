@@ -1,0 +1,18 @@
+壹ONE PTE Trainer · Deploy v5
+
+推荐 Vercel：
+1. 上传本文件夹到 GitHub/GitLab，或使用 Vercel CLI 部署。
+2. Framework Preset: Vite
+3. Build Command: npm run build
+4. Output Directory: build
+5. 部署。
+
+本项目已包含 vercel.json、netlify.toml、public/_redirects 和 .npmrc。
+学习记录保存在浏览器 IndexedDB/localStorage，本版不需要后端数据库。
+
+当前数据：
+- FIB: 467
+- SST: 97 道题，其中 54 道 8月最高频；1181 个按题目组织的训练项；550 个不重复重点词已匹配题目语境
+- SGD: 5 分类 / 20 Topic / 525 短句，固定顺序训练
+
+注意：SGD 原题加密 PDF 使用当前提供密码仍无法解密，因此本版没有伪造 SGD 原文例句/逐句中文。结构已预留，拿到可读原文后可直接补充。

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="application-name" content="壹ONE PTE Vocabulary" />
+    <meta name="apple-mobile-web-app-title" content="壹ONE PTE Vocabulary" />
+    <meta name="description" content="壹ONE PTE FIB、SST 等专项词汇键盘训练工具。" />
+    <meta name="keywords" content="PTE,FIB,SST,Listening,听力,词汇,拼写,键盘训练" />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="icon" type="image/png" href="/one-logo.png" />
+    <title>壹ONE PTE Vocabulary Trainer</title>
+    <script>
+      ;(function (l) {
+        if (l.search[1] === '/') {
+          var decoded = l.search
+            .slice(1)
+            .split('&')
+            .map(function (s) { return s.replace(/~and~/g, '&') })
+            .join('?')
+          window.history.replaceState(null, null, l.pathname.slice(0, -1) + decoded + l.hash)
+        }
+      })(window.location)
+    </script>
+    <script>
+      if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.documentElement.classList.add('dark')
+      }
+    </script>
+  </head>
+  <body>
+    <noscript>你需要启用 JavaScript 来运行壹ONE PTE Vocabulary Trainer。</noscript>
+    <div id="root"></div>
+    <script type="module" src="/src/index.tsx"></script>
+  </body>
+</html>
