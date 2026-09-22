@@ -1,0 +1,42 @@
+name: Import uploaded source
+on:
+  push:
+    paths:
+      - '.github/workflows/import-source.yml'
+permissions:
+  contents: write
+jobs:
+  import:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Expand source archive
+        shell: python
+        run: |
+          import pathlib, zipfile
+          root = pathlib.Path.cwd()
+          archive = root / "SOURCE_IMPORT.zip"
+          if not archive.exists():
+              raise SystemExit("Source archive is missing")
+          with zipfile.ZipFile(archive) as z:
+              for item in z.infolist():
+                  path = pathlib.PurePosixPath(item.filename)
+                  if path.is_absolute() or ".." in path.parts:
+                      raise SystemExit("Unsafe archive path")
+                  if item.is_dir():
+                      continue
+                  relative = pathlib.Path(*path.parts[1:])
+                  if relative.parts[:2] == (".github", "workflows"):
+                      continue
+                  destination = root / relative
+                  destination.parent.mkdir(parents=True, exist_ok=True)
+                  destination.write_bytes(z.read(item))
+          archive.unlink()
+      - name: Commit imported source
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- . ':!.github/workflows'
+          git commit -m "Import complete ONE PTE Trainer v5 source"
+          git push origin HEAD:main
